@@ -7,7 +7,6 @@ export default function Header() {
   const pathname = usePathname();
 
   const navLinks = [
-    { href: '/submit', label: 'Submit' },
     { href: '/gallery', label: 'Gallery' },
   ];
 

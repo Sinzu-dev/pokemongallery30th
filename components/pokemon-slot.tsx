@@ -1,6 +1,4 @@
 'use client';
-
-import Link from 'next/link';
 import type { Logo } from '@/lib/types';
 import pokemonNames from '@/lib/pokemon-names.json';
 
@@ -29,13 +27,10 @@ export default function PokemonSlot({ pokedexNumber, logos }: PokemonSlotProps) 
   const hasLogos = logos && logos.length > 0;
   const pokemonName = (pokemonNames as Record<string, string>)[pokedexNumber.toString()] || `Pokemon ${pokedexNumber}`;
 
-  // Empty slot - link to submit with pre-filled name
+  // Empty slot - just display (no submit on static site)
   if (!hasLogos) {
     return (
-      <Link
-        href={`/submit?pokedex=${pokedexNumber}&name=${encodeURIComponent(pokemonName)}`}
-        className="bg-white rounded-xl shadow-md overflow-hidden hover:shadow-lg transition-all hover:scale-105 border-2 border-dashed border-gray-300 hover:border-[#4A90D9]"
-      >
+      <div className="bg-white rounded-xl shadow-md overflow-hidden border-2 border-dashed border-gray-300">
         <div className="aspect-square bg-gray-50 flex items-center justify-center">
           <span className="text-4xl font-bold text-gray-300">
             {pokedexNumber}
@@ -45,7 +40,7 @@ export default function PokemonSlot({ pokedexNumber, logos }: PokemonSlotProps) 
           <span className="text-xs text-gray-400">{formatPokedex(pokedexNumber)}</span>
           <p className="text-xs font-medium text-gray-500 truncate">{pokemonName}</p>
         </div>
-      </Link>
+      </div>
     );
   }
 
