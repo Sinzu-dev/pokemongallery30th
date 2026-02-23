@@ -1,9 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  output: 'export',
-  images: { unoptimized: true },
-  basePath: '/pokemon-logo-gallery',
+  serverExternalPackages: ['better-sqlite3'],
 };
 
 export default nextConfig;
