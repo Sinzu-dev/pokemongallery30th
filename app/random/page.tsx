@@ -89,7 +89,7 @@ export default function RandomPage() {
 
       {/* Loading overlay to hide export grid flash */}
       {isSaving && (
-        <div className="fixed inset-0 bg-white/90 z-[99999] flex items-center justify-center">
+        <div className="fixed inset-0 bg-white z-[99999] flex items-center justify-center">
           <div className="text-center">
             <div className="animate-spin w-12 h-12 border-4 border-blue-500 border-t-transparent rounded-full mx-auto mb-4" />
             <p className="text-gray-600 font-medium">Saving image...</p>
