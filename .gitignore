@@ -45,6 +45,4 @@ next-env.d.ts
 /data/*.db-journal
 /data/*.db-wal
 
-# Uploaded logos
-/public/logos/*
-!/public/logos/.gitkeep
+# Uploaded logos - now tracked for GitHub Pages
