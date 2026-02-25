@@ -161,7 +161,7 @@ export default function RandomPage() {
               ))}
             </div>
 
-            {/* Grid for image-only export (always hidden, captured by domToPng) */}
+            {/* Grid for image-only export (hidden behind content, visible only during capture) */}
             <div
               ref={gridRef}
               className={`grid gap-4 ${mode === 6 ? 'grid-cols-3' : 'grid-cols-3'} bg-white p-4`}
@@ -170,9 +170,9 @@ export default function RandomPage() {
                 top: 0,
                 left: 0,
                 width: '1200px',
-                opacity: 0,
+                clipPath: isSaving ? 'none' : 'inset(100%)',
                 pointerEvents: 'none',
-                zIndex: -1
+                zIndex: -9999
               }}
             >
               {picked.map((logo) => {
