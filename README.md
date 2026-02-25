@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Pokemon 30th Anniversary Logo Gallery
 
-## Getting Started
+A static gallery showcasing Pokemon 30th Anniversary logos with type filtering and random team generator.
 
-First, run the development server:
+**Live Demo:** https://sinzu-dev.github.io/pokemongallery30th/
+
+## Features
+
+- **Gallery**: Browse 1025+ Pokemon logos with search and type filtering
+- **Random Generator**: Pick random teams of 1, 6, 9, or 100 Pokemon
+- **Save Image**: Export your random team as PNG
+- **Type Display**: Shows Pokemon types with color badges
+- **Animated Background**: Scrolling Pokemon logos background
+
+## Tech Stack
+
+- Next.js 16 (Static Export)
+- Tailwind CSS v4
+- TypeScript
+- GitHub Pages
+
+## Development
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Build & Deploy
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run build
+```
 
-## Learn More
+Deployment is automated via GitHub Actions on push to `master`.
 
-To learn more about Next.js, take a look at the following resources:
+## License
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+MIT
