@@ -87,6 +87,16 @@ export default function RandomPage() {
     <div className="relative">
       <AnimatedBackground />
 
+      {/* Loading overlay to hide export grid flash */}
+      {isSaving && (
+        <div className="fixed inset-0 bg-white/90 z-[99999] flex items-center justify-center">
+          <div className="text-center">
+            <div className="animate-spin w-12 h-12 border-4 border-blue-500 border-t-transparent rounded-full mx-auto mb-4" />
+            <p className="text-gray-600 font-medium">Saving image...</p>
+          </div>
+        </div>
+      )}
+
       <div className="relative z-10">
         <h1 className="text-2xl font-bold text-center mb-2">Random Team Generator</h1>
         <p className="text-center text-gray-500 mb-6">
