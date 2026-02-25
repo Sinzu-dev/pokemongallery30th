@@ -8,14 +8,17 @@ export default function Header() {
 
   const navLinks = [
     { href: '/gallery', label: 'Gallery' },
+    { href: '/random', label: 'Random' },
   ];
 
   return (
     <header className="bg-[#4A90D9] shadow-md">
       <div className="max-w-5xl mx-auto px-4 py-4 flex items-center justify-between">
         {/* Logo/Title */}
-        <Link href="/" className="text-[#FFD700] font-bold text-xl hover:opacity-90">
-          Pokemon Logo Gallery
+        <Link href="/" className="flex items-center gap-3 text-[#FFD700] font-bold text-xl hover:opacity-90">
+          <img src="/logos/0025-anime-1.png" alt="30th" className="w-12 h-12 object-contain" />
+          <span className="hidden sm:inline">Pokemon 30th Anniversary Logo Gallery</span>
+          <span className="sm:hidden">Pokemon 30th</span>
         </Link>
 
         {/* Navigation */}

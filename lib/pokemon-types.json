@@ -1,0 +1,10084 @@
+{
+  "1-base": {
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "colors": [
+      "#78C850",
+      "#A040A0"
+    ]
+  },
+  "2-base": {
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "colors": [
+      "#78C850",
+      "#A040A0"
+    ]
+  },
+  "3-base": {
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "colors": [
+      "#78C850",
+      "#A040A0"
+    ]
+  },
+  "4-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "5-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "6-base": {
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "colors": [
+      "#F08030",
+      "#A890F0"
+    ]
+  },
+  "7-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "8-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "9-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "10-base": {
+    "types": [
+      "bug"
+    ],
+    "colors": [
+      "#A8B820"
+    ]
+  },
+  "11-base": {
+    "types": [
+      "bug"
+    ],
+    "colors": [
+      "#A8B820"
+    ]
+  },
+  "12-base": {
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "colors": [
+      "#A8B820",
+      "#A890F0"
+    ]
+  },
+  "13-base": {
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "colors": [
+      "#A8B820",
+      "#A040A0"
+    ]
+  },
+  "14-base": {
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "colors": [
+      "#A8B820",
+      "#A040A0"
+    ]
+  },
+  "15-base": {
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "colors": [
+      "#A8B820",
+      "#A040A0"
+    ]
+  },
+  "16-base": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "17-base": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "18-base": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "19-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "19-alolan": {
+    "types": [
+      "dark",
+      "normal"
+    ],
+    "colors": [
+      "#705848",
+      "#A8A878"
+    ]
+  },
+  "20-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "20-alolan": {
+    "types": [
+      "dark",
+      "normal"
+    ],
+    "colors": [
+      "#705848",
+      "#A8A878"
+    ]
+  },
+  "21-base": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "22-base": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "23-base": {
+    "types": [
+      "poison"
+    ],
+    "colors": [
+      "#A040A0"
+    ]
+  },
+  "24-base": {
+    "types": [
+      "poison"
+    ],
+    "colors": [
+      "#A040A0"
+    ]
+  },
+  "25-alolan": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "25-anime": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "26-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "26-alolan": {
+    "types": [
+      "electric",
+      "psychic"
+    ],
+    "colors": [
+      "#F8D030",
+      "#F85888"
+    ]
+  },
+  "27-base": {
+    "types": [
+      "ground"
+    ],
+    "colors": [
+      "#E0C068"
+    ]
+  },
+  "27-alolan": {
+    "types": [
+      "ice",
+      "steel"
+    ],
+    "colors": [
+      "#98D8D8",
+      "#B8B8D0"
+    ]
+  },
+  "28-base": {
+    "types": [
+      "ground"
+    ],
+    "colors": [
+      "#E0C068"
+    ]
+  },
+  "28-alolan": {
+    "types": [
+      "ice",
+      "steel"
+    ],
+    "colors": [
+      "#98D8D8",
+      "#B8B8D0"
+    ]
+  },
+  "29-base": {
+    "types": [
+      "poison"
+    ],
+    "colors": [
+      "#A040A0"
+    ]
+  },
+  "30-base": {
+    "types": [
+      "poison"
+    ],
+    "colors": [
+      "#A040A0"
+    ]
+  },
+  "31-base": {
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "colors": [
+      "#A040A0",
+      "#E0C068"
+    ]
+  },
+  "32-base": {
+    "types": [
+      "poison"
+    ],
+    "colors": [
+      "#A040A0"
+    ]
+  },
+  "33-base": {
+    "types": [
+      "poison"
+    ],
+    "colors": [
+      "#A040A0"
+    ]
+  },
+  "34-base": {
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "colors": [
+      "#A040A0",
+      "#E0C068"
+    ]
+  },
+  "35-base": {
+    "types": [
+      "fairy"
+    ],
+    "colors": [
+      "#EE99AC"
+    ]
+  },
+  "36-base": {
+    "types": [
+      "fairy"
+    ],
+    "colors": [
+      "#EE99AC"
+    ]
+  },
+  "37-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "37-alolan": {
+    "types": [
+      "ice"
+    ],
+    "colors": [
+      "#98D8D8"
+    ]
+  },
+  "38-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "38-alolan": {
+    "types": [
+      "ice",
+      "fairy"
+    ],
+    "colors": [
+      "#98D8D8",
+      "#EE99AC"
+    ]
+  },
+  "39-base": {
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "colors": [
+      "#A8A878",
+      "#EE99AC"
+    ]
+  },
+  "40-base": {
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "colors": [
+      "#A8A878",
+      "#EE99AC"
+    ]
+  },
+  "41-base": {
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "colors": [
+      "#A040A0",
+      "#A890F0"
+    ]
+  },
+  "42-base": {
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "colors": [
+      "#A040A0",
+      "#A890F0"
+    ]
+  },
+  "43-base": {
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "colors": [
+      "#78C850",
+      "#A040A0"
+    ]
+  },
+  "44-base": {
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "colors": [
+      "#78C850",
+      "#A040A0"
+    ]
+  },
+  "45-base": {
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "colors": [
+      "#78C850",
+      "#A040A0"
+    ]
+  },
+  "46-base": {
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "colors": [
+      "#A8B820",
+      "#78C850"
+    ]
+  },
+  "47-base": {
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "colors": [
+      "#A8B820",
+      "#78C850"
+    ]
+  },
+  "48-base": {
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "colors": [
+      "#A8B820",
+      "#A040A0"
+    ]
+  },
+  "49-base": {
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "colors": [
+      "#A8B820",
+      "#A040A0"
+    ]
+  },
+  "50-base": {
+    "types": [
+      "ground"
+    ],
+    "colors": [
+      "#E0C068"
+    ]
+  },
+  "50-alolan": {
+    "types": [
+      "ground",
+      "steel"
+    ],
+    "colors": [
+      "#E0C068",
+      "#B8B8D0"
+    ]
+  },
+  "51-base": {
+    "types": [
+      "ground"
+    ],
+    "colors": [
+      "#E0C068"
+    ]
+  },
+  "51-alolan": {
+    "types": [
+      "ground",
+      "steel"
+    ],
+    "colors": [
+      "#E0C068",
+      "#B8B8D0"
+    ]
+  },
+  "52-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "52-alolan": {
+    "types": [
+      "dark"
+    ],
+    "colors": [
+      "#705848"
+    ]
+  },
+  "52-galarian": {
+    "types": [
+      "steel"
+    ],
+    "colors": [
+      "#B8B8D0"
+    ]
+  },
+  "53-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "53-alolan": {
+    "types": [
+      "dark"
+    ],
+    "colors": [
+      "#705848"
+    ]
+  },
+  "54-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "55-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "56-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "57-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "58-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "58-hisuian": {
+    "types": [
+      "fire",
+      "rock"
+    ],
+    "colors": [
+      "#F08030",
+      "#B8A038"
+    ]
+  },
+  "59-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "59-hisuian": {
+    "types": [
+      "fire",
+      "rock"
+    ],
+    "colors": [
+      "#F08030",
+      "#B8A038"
+    ]
+  },
+  "60-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "61-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "62-base": {
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "colors": [
+      "#6890F0",
+      "#C03028"
+    ]
+  },
+  "63-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "64-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "65-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "66-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "67-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "68-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "69-base": {
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "colors": [
+      "#78C850",
+      "#A040A0"
+    ]
+  },
+  "70-base": {
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "colors": [
+      "#78C850",
+      "#A040A0"
+    ]
+  },
+  "71-base": {
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "colors": [
+      "#78C850",
+      "#A040A0"
+    ]
+  },
+  "72-base": {
+    "types": [
+      "water",
+      "poison"
+    ],
+    "colors": [
+      "#6890F0",
+      "#A040A0"
+    ]
+  },
+  "73-base": {
+    "types": [
+      "water",
+      "poison"
+    ],
+    "colors": [
+      "#6890F0",
+      "#A040A0"
+    ]
+  },
+  "74-base": {
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "colors": [
+      "#B8A038",
+      "#E0C068"
+    ]
+  },
+  "74-alolan": {
+    "types": [
+      "rock",
+      "electric"
+    ],
+    "colors": [
+      "#B8A038",
+      "#F8D030"
+    ]
+  },
+  "75-base": {
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "colors": [
+      "#B8A038",
+      "#E0C068"
+    ]
+  },
+  "75-alolan": {
+    "types": [
+      "rock",
+      "electric"
+    ],
+    "colors": [
+      "#B8A038",
+      "#F8D030"
+    ]
+  },
+  "76-base": {
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "colors": [
+      "#B8A038",
+      "#E0C068"
+    ]
+  },
+  "76-alolan": {
+    "types": [
+      "rock",
+      "electric"
+    ],
+    "colors": [
+      "#B8A038",
+      "#F8D030"
+    ]
+  },
+  "77-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "77-galarian": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "78-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "78-galarian": {
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "colors": [
+      "#F85888",
+      "#EE99AC"
+    ]
+  },
+  "79-base": {
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "colors": [
+      "#6890F0",
+      "#F85888"
+    ]
+  },
+  "79-galarian": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "80-base": {
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "colors": [
+      "#6890F0",
+      "#F85888"
+    ]
+  },
+  "80-galarian": {
+    "types": [
+      "poison",
+      "psychic"
+    ],
+    "colors": [
+      "#A040A0",
+      "#F85888"
+    ]
+  },
+  "81-base": {
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "colors": [
+      "#F8D030",
+      "#B8B8D0"
+    ]
+  },
+  "82-base": {
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "colors": [
+      "#F8D030",
+      "#B8B8D0"
+    ]
+  },
+  "83-base": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "83-galarian": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "84-base": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "85-base": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "86-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "87-base": {
+    "types": [
+      "water",
+      "ice"
+    ],
+    "colors": [
+      "#6890F0",
+      "#98D8D8"
+    ]
+  },
+  "88-base": {
+    "types": [
+      "poison"
+    ],
+    "colors": [
+      "#A040A0"
+    ]
+  },
+  "88-alolan": {
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "colors": [
+      "#A040A0",
+      "#705848"
+    ]
+  },
+  "89-base": {
+    "types": [
+      "poison"
+    ],
+    "colors": [
+      "#A040A0"
+    ]
+  },
+  "89-alolan": {
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "colors": [
+      "#A040A0",
+      "#705848"
+    ]
+  },
+  "90-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "91-base": {
+    "types": [
+      "water",
+      "ice"
+    ],
+    "colors": [
+      "#6890F0",
+      "#98D8D8"
+    ]
+  },
+  "92-base": {
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "colors": [
+      "#705898",
+      "#A040A0"
+    ]
+  },
+  "93-base": {
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "colors": [
+      "#705898",
+      "#A040A0"
+    ]
+  },
+  "94-base": {
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "colors": [
+      "#705898",
+      "#A040A0"
+    ]
+  },
+  "95-base": {
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "colors": [
+      "#B8A038",
+      "#E0C068"
+    ]
+  },
+  "96-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "97-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "98-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "99-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "100-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "100-hisuian": {
+    "types": [
+      "electric",
+      "grass"
+    ],
+    "colors": [
+      "#F8D030",
+      "#78C850"
+    ]
+  },
+  "101-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "101-hisuian": {
+    "types": [
+      "electric",
+      "grass"
+    ],
+    "colors": [
+      "#F8D030",
+      "#78C850"
+    ]
+  },
+  "102-base": {
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "colors": [
+      "#78C850",
+      "#F85888"
+    ]
+  },
+  "103-base": {
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "colors": [
+      "#78C850",
+      "#F85888"
+    ]
+  },
+  "103-alolan": {
+    "types": [
+      "grass",
+      "dragon"
+    ],
+    "colors": [
+      "#78C850",
+      "#7038F8"
+    ]
+  },
+  "104-base": {
+    "types": [
+      "ground"
+    ],
+    "colors": [
+      "#E0C068"
+    ]
+  },
+  "105-base": {
+    "types": [
+      "ground"
+    ],
+    "colors": [
+      "#E0C068"
+    ]
+  },
+  "105-alolan": {
+    "types": [
+      "fire",
+      "ghost"
+    ],
+    "colors": [
+      "#F08030",
+      "#705898"
+    ]
+  },
+  "106-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "107-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "108-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "109-base": {
+    "types": [
+      "poison"
+    ],
+    "colors": [
+      "#A040A0"
+    ]
+  },
+  "110-base": {
+    "types": [
+      "poison"
+    ],
+    "colors": [
+      "#A040A0"
+    ]
+  },
+  "110-galarian": {
+    "types": [
+      "poison",
+      "fairy"
+    ],
+    "colors": [
+      "#A040A0",
+      "#EE99AC"
+    ]
+  },
+  "111-base": {
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "colors": [
+      "#E0C068",
+      "#B8A038"
+    ]
+  },
+  "112-base": {
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "colors": [
+      "#E0C068",
+      "#B8A038"
+    ]
+  },
+  "113-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "114-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "115-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "116-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "117-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "118-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "119-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "120-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "121-base": {
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "colors": [
+      "#6890F0",
+      "#F85888"
+    ]
+  },
+  "122-base": {
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "colors": [
+      "#F85888",
+      "#EE99AC"
+    ]
+  },
+  "122-galarian": {
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "colors": [
+      "#98D8D8",
+      "#F85888"
+    ]
+  },
+  "123-base": {
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "colors": [
+      "#A8B820",
+      "#A890F0"
+    ]
+  },
+  "124-base": {
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "colors": [
+      "#98D8D8",
+      "#F85888"
+    ]
+  },
+  "125-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "126-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "127-base": {
+    "types": [
+      "bug"
+    ],
+    "colors": [
+      "#A8B820"
+    ]
+  },
+  "128-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "128-paldean": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "129-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "130-base": {
+    "types": [
+      "water",
+      "flying"
+    ],
+    "colors": [
+      "#6890F0",
+      "#A890F0"
+    ]
+  },
+  "131-base": {
+    "types": [
+      "water",
+      "ice"
+    ],
+    "colors": [
+      "#6890F0",
+      "#98D8D8"
+    ]
+  },
+  "132-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "133-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "134-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "135-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "136-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "137-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "138-base": {
+    "types": [
+      "rock",
+      "water"
+    ],
+    "colors": [
+      "#B8A038",
+      "#6890F0"
+    ]
+  },
+  "139-base": {
+    "types": [
+      "rock",
+      "water"
+    ],
+    "colors": [
+      "#B8A038",
+      "#6890F0"
+    ]
+  },
+  "140-base": {
+    "types": [
+      "rock",
+      "water"
+    ],
+    "colors": [
+      "#B8A038",
+      "#6890F0"
+    ]
+  },
+  "141-base": {
+    "types": [
+      "rock",
+      "water"
+    ],
+    "colors": [
+      "#B8A038",
+      "#6890F0"
+    ]
+  },
+  "142-base": {
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "colors": [
+      "#B8A038",
+      "#A890F0"
+    ]
+  },
+  "143-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "144-base": {
+    "types": [
+      "ice",
+      "flying"
+    ],
+    "colors": [
+      "#98D8D8",
+      "#A890F0"
+    ]
+  },
+  "144-galarian": {
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "colors": [
+      "#F85888",
+      "#A890F0"
+    ]
+  },
+  "145-base": {
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "colors": [
+      "#F8D030",
+      "#A890F0"
+    ]
+  },
+  "145-galarian": {
+    "types": [
+      "fighting",
+      "flying"
+    ],
+    "colors": [
+      "#C03028",
+      "#A890F0"
+    ]
+  },
+  "146-base": {
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "colors": [
+      "#F08030",
+      "#A890F0"
+    ]
+  },
+  "146-galarian": {
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "colors": [
+      "#705848",
+      "#A890F0"
+    ]
+  },
+  "147-base": {
+    "types": [
+      "dragon"
+    ],
+    "colors": [
+      "#7038F8"
+    ]
+  },
+  "148-base": {
+    "types": [
+      "dragon"
+    ],
+    "colors": [
+      "#7038F8"
+    ]
+  },
+  "149-base": {
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "colors": [
+      "#7038F8",
+      "#A890F0"
+    ]
+  },
+  "150-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "151-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "152-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "153-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "154-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "155-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "156-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "157-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "157-hisuian": {
+    "types": [
+      "fire",
+      "ghost"
+    ],
+    "colors": [
+      "#F08030",
+      "#705898"
+    ]
+  },
+  "158-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "159-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "160-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "161-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "162-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "163-base": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "164-base": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "165-base": {
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "colors": [
+      "#A8B820",
+      "#A890F0"
+    ]
+  },
+  "166-base": {
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "colors": [
+      "#A8B820",
+      "#A890F0"
+    ]
+  },
+  "167-base": {
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "colors": [
+      "#A8B820",
+      "#A040A0"
+    ]
+  },
+  "168-base": {
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "colors": [
+      "#A8B820",
+      "#A040A0"
+    ]
+  },
+  "169-base": {
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "colors": [
+      "#A040A0",
+      "#A890F0"
+    ]
+  },
+  "170-base": {
+    "types": [
+      "water",
+      "electric"
+    ],
+    "colors": [
+      "#6890F0",
+      "#F8D030"
+    ]
+  },
+  "171-base": {
+    "types": [
+      "water",
+      "electric"
+    ],
+    "colors": [
+      "#6890F0",
+      "#F8D030"
+    ]
+  },
+  "172-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "173-base": {
+    "types": [
+      "fairy"
+    ],
+    "colors": [
+      "#EE99AC"
+    ]
+  },
+  "174-base": {
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "colors": [
+      "#A8A878",
+      "#EE99AC"
+    ]
+  },
+  "175-base": {
+    "types": [
+      "fairy"
+    ],
+    "colors": [
+      "#EE99AC"
+    ]
+  },
+  "176-base": {
+    "types": [
+      "fairy",
+      "flying"
+    ],
+    "colors": [
+      "#EE99AC",
+      "#A890F0"
+    ]
+  },
+  "177-base": {
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "colors": [
+      "#F85888",
+      "#A890F0"
+    ]
+  },
+  "178-base": {
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "colors": [
+      "#F85888",
+      "#A890F0"
+    ]
+  },
+  "179-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "180-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "181-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "182-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "183-base": {
+    "types": [
+      "water",
+      "fairy"
+    ],
+    "colors": [
+      "#6890F0",
+      "#EE99AC"
+    ]
+  },
+  "184-base": {
+    "types": [
+      "water",
+      "fairy"
+    ],
+    "colors": [
+      "#6890F0",
+      "#EE99AC"
+    ]
+  },
+  "185-base": {
+    "types": [
+      "rock"
+    ],
+    "colors": [
+      "#B8A038"
+    ]
+  },
+  "186-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "187-base": {
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "colors": [
+      "#78C850",
+      "#A890F0"
+    ]
+  },
+  "188-base": {
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "colors": [
+      "#78C850",
+      "#A890F0"
+    ]
+  },
+  "189-base": {
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "colors": [
+      "#78C850",
+      "#A890F0"
+    ]
+  },
+  "190-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "191-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "192-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "193-base": {
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "colors": [
+      "#A8B820",
+      "#A890F0"
+    ]
+  },
+  "194-base": {
+    "types": [
+      "water",
+      "ground"
+    ],
+    "colors": [
+      "#6890F0",
+      "#E0C068"
+    ]
+  },
+  "194-paldean": {
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "colors": [
+      "#A040A0",
+      "#E0C068"
+    ]
+  },
+  "195-base": {
+    "types": [
+      "water",
+      "ground"
+    ],
+    "colors": [
+      "#6890F0",
+      "#E0C068"
+    ]
+  },
+  "196-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "197-base": {
+    "types": [
+      "dark"
+    ],
+    "colors": [
+      "#705848"
+    ]
+  },
+  "198-base": {
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "colors": [
+      "#705848",
+      "#A890F0"
+    ]
+  },
+  "199-base": {
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "colors": [
+      "#6890F0",
+      "#F85888"
+    ]
+  },
+  "199-galarian": {
+    "types": [
+      "poison",
+      "psychic"
+    ],
+    "colors": [
+      "#A040A0",
+      "#F85888"
+    ]
+  },
+  "200-base": {
+    "types": [
+      "ghost"
+    ],
+    "colors": [
+      "#705898"
+    ]
+  },
+  "201-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "202-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "203-base": {
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "colors": [
+      "#A8A878",
+      "#F85888"
+    ]
+  },
+  "204-base": {
+    "types": [
+      "bug"
+    ],
+    "colors": [
+      "#A8B820"
+    ]
+  },
+  "205-base": {
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "colors": [
+      "#A8B820",
+      "#B8B8D0"
+    ]
+  },
+  "206-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "207-base": {
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "colors": [
+      "#E0C068",
+      "#A890F0"
+    ]
+  },
+  "208-base": {
+    "types": [
+      "steel",
+      "ground"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#E0C068"
+    ]
+  },
+  "209-base": {
+    "types": [
+      "fairy"
+    ],
+    "colors": [
+      "#EE99AC"
+    ]
+  },
+  "210-base": {
+    "types": [
+      "fairy"
+    ],
+    "colors": [
+      "#EE99AC"
+    ]
+  },
+  "211-base": {
+    "types": [
+      "water",
+      "poison"
+    ],
+    "colors": [
+      "#6890F0",
+      "#A040A0"
+    ]
+  },
+  "211-hisuian": {
+    "types": [
+      "dark",
+      "poison"
+    ],
+    "colors": [
+      "#705848",
+      "#A040A0"
+    ]
+  },
+  "212-base": {
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "colors": [
+      "#A8B820",
+      "#B8B8D0"
+    ]
+  },
+  "213-base": {
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "colors": [
+      "#A8B820",
+      "#B8A038"
+    ]
+  },
+  "214-base": {
+    "types": [
+      "bug",
+      "fighting"
+    ],
+    "colors": [
+      "#A8B820",
+      "#C03028"
+    ]
+  },
+  "215-base": {
+    "types": [
+      "dark",
+      "ice"
+    ],
+    "colors": [
+      "#705848",
+      "#98D8D8"
+    ]
+  },
+  "215-hisuian": {
+    "types": [
+      "fighting",
+      "poison"
+    ],
+    "colors": [
+      "#C03028",
+      "#A040A0"
+    ]
+  },
+  "216-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "217-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "218-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "219-base": {
+    "types": [
+      "fire",
+      "rock"
+    ],
+    "colors": [
+      "#F08030",
+      "#B8A038"
+    ]
+  },
+  "220-base": {
+    "types": [
+      "ice",
+      "ground"
+    ],
+    "colors": [
+      "#98D8D8",
+      "#E0C068"
+    ]
+  },
+  "221-base": {
+    "types": [
+      "ice",
+      "ground"
+    ],
+    "colors": [
+      "#98D8D8",
+      "#E0C068"
+    ]
+  },
+  "222-base": {
+    "types": [
+      "water",
+      "rock"
+    ],
+    "colors": [
+      "#6890F0",
+      "#B8A038"
+    ]
+  },
+  "222-galarian": {
+    "types": [
+      "ghost"
+    ],
+    "colors": [
+      "#705898"
+    ]
+  },
+  "223-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "224-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "225-base": {
+    "types": [
+      "ice",
+      "flying"
+    ],
+    "colors": [
+      "#98D8D8",
+      "#A890F0"
+    ]
+  },
+  "226-base": {
+    "types": [
+      "water",
+      "flying"
+    ],
+    "colors": [
+      "#6890F0",
+      "#A890F0"
+    ]
+  },
+  "227-base": {
+    "types": [
+      "steel",
+      "flying"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#A890F0"
+    ]
+  },
+  "228-base": {
+    "types": [
+      "dark",
+      "fire"
+    ],
+    "colors": [
+      "#705848",
+      "#F08030"
+    ]
+  },
+  "229-base": {
+    "types": [
+      "dark",
+      "fire"
+    ],
+    "colors": [
+      "#705848",
+      "#F08030"
+    ]
+  },
+  "230-base": {
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "colors": [
+      "#6890F0",
+      "#7038F8"
+    ]
+  },
+  "231-base": {
+    "types": [
+      "ground"
+    ],
+    "colors": [
+      "#E0C068"
+    ]
+  },
+  "232-base": {
+    "types": [
+      "ground"
+    ],
+    "colors": [
+      "#E0C068"
+    ]
+  },
+  "233-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "234-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "235-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "236-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "237-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "238-base": {
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "colors": [
+      "#98D8D8",
+      "#F85888"
+    ]
+  },
+  "239-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "240-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "241-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "242-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "243-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "244-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "245-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "246-base": {
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "colors": [
+      "#B8A038",
+      "#E0C068"
+    ]
+  },
+  "247-base": {
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "colors": [
+      "#B8A038",
+      "#E0C068"
+    ]
+  },
+  "248-base": {
+    "types": [
+      "rock",
+      "dark"
+    ],
+    "colors": [
+      "#B8A038",
+      "#705848"
+    ]
+  },
+  "249-base": {
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "colors": [
+      "#F85888",
+      "#A890F0"
+    ]
+  },
+  "250-base": {
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "colors": [
+      "#F08030",
+      "#A890F0"
+    ]
+  },
+  "251-base": {
+    "types": [
+      "psychic",
+      "grass"
+    ],
+    "colors": [
+      "#F85888",
+      "#78C850"
+    ]
+  },
+  "252-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "253-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "254-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "255-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "256-base": {
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "colors": [
+      "#F08030",
+      "#C03028"
+    ]
+  },
+  "257-base": {
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "colors": [
+      "#F08030",
+      "#C03028"
+    ]
+  },
+  "258-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "259-base": {
+    "types": [
+      "water",
+      "ground"
+    ],
+    "colors": [
+      "#6890F0",
+      "#E0C068"
+    ]
+  },
+  "260-base": {
+    "types": [
+      "water",
+      "ground"
+    ],
+    "colors": [
+      "#6890F0",
+      "#E0C068"
+    ]
+  },
+  "261-base": {
+    "types": [
+      "dark"
+    ],
+    "colors": [
+      "#705848"
+    ]
+  },
+  "262-base": {
+    "types": [
+      "dark"
+    ],
+    "colors": [
+      "#705848"
+    ]
+  },
+  "263-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "263-galarian": {
+    "types": [
+      "dark",
+      "normal"
+    ],
+    "colors": [
+      "#705848",
+      "#A8A878"
+    ]
+  },
+  "264-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "264-galarian": {
+    "types": [
+      "dark",
+      "normal"
+    ],
+    "colors": [
+      "#705848",
+      "#A8A878"
+    ]
+  },
+  "265-base": {
+    "types": [
+      "bug"
+    ],
+    "colors": [
+      "#A8B820"
+    ]
+  },
+  "266-base": {
+    "types": [
+      "bug"
+    ],
+    "colors": [
+      "#A8B820"
+    ]
+  },
+  "267-base": {
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "colors": [
+      "#A8B820",
+      "#A890F0"
+    ]
+  },
+  "268-base": {
+    "types": [
+      "bug"
+    ],
+    "colors": [
+      "#A8B820"
+    ]
+  },
+  "269-base": {
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "colors": [
+      "#A8B820",
+      "#A040A0"
+    ]
+  },
+  "270-base": {
+    "types": [
+      "water",
+      "grass"
+    ],
+    "colors": [
+      "#6890F0",
+      "#78C850"
+    ]
+  },
+  "271-base": {
+    "types": [
+      "water",
+      "grass"
+    ],
+    "colors": [
+      "#6890F0",
+      "#78C850"
+    ]
+  },
+  "272-base": {
+    "types": [
+      "water",
+      "grass"
+    ],
+    "colors": [
+      "#6890F0",
+      "#78C850"
+    ]
+  },
+  "273-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "274-base": {
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "colors": [
+      "#78C850",
+      "#705848"
+    ]
+  },
+  "275-base": {
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "colors": [
+      "#78C850",
+      "#705848"
+    ]
+  },
+  "276-base": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "277-base": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "278-base": {
+    "types": [
+      "water",
+      "flying"
+    ],
+    "colors": [
+      "#6890F0",
+      "#A890F0"
+    ]
+  },
+  "279-base": {
+    "types": [
+      "water",
+      "flying"
+    ],
+    "colors": [
+      "#6890F0",
+      "#A890F0"
+    ]
+  },
+  "280-base": {
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "colors": [
+      "#F85888",
+      "#EE99AC"
+    ]
+  },
+  "281-base": {
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "colors": [
+      "#F85888",
+      "#EE99AC"
+    ]
+  },
+  "282-base": {
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "colors": [
+      "#F85888",
+      "#EE99AC"
+    ]
+  },
+  "283-base": {
+    "types": [
+      "bug",
+      "water"
+    ],
+    "colors": [
+      "#A8B820",
+      "#6890F0"
+    ]
+  },
+  "284-base": {
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "colors": [
+      "#A8B820",
+      "#A890F0"
+    ]
+  },
+  "285-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "286-base": {
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "colors": [
+      "#78C850",
+      "#C03028"
+    ]
+  },
+  "287-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "288-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "289-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "290-base": {
+    "types": [
+      "bug",
+      "ground"
+    ],
+    "colors": [
+      "#A8B820",
+      "#E0C068"
+    ]
+  },
+  "291-base": {
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "colors": [
+      "#A8B820",
+      "#A890F0"
+    ]
+  },
+  "292-base": {
+    "types": [
+      "bug",
+      "ghost"
+    ],
+    "colors": [
+      "#A8B820",
+      "#705898"
+    ]
+  },
+  "293-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "294-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "295-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "296-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "297-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "298-base": {
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "colors": [
+      "#A8A878",
+      "#EE99AC"
+    ]
+  },
+  "299-base": {
+    "types": [
+      "rock"
+    ],
+    "colors": [
+      "#B8A038"
+    ]
+  },
+  "300-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "301-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "302-base": {
+    "types": [
+      "dark",
+      "ghost"
+    ],
+    "colors": [
+      "#705848",
+      "#705898"
+    ]
+  },
+  "303-base": {
+    "types": [
+      "steel",
+      "fairy"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#EE99AC"
+    ]
+  },
+  "304-base": {
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#B8A038"
+    ]
+  },
+  "305-base": {
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#B8A038"
+    ]
+  },
+  "306-base": {
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#B8A038"
+    ]
+  },
+  "307-base": {
+    "types": [
+      "fighting",
+      "psychic"
+    ],
+    "colors": [
+      "#C03028",
+      "#F85888"
+    ]
+  },
+  "308-base": {
+    "types": [
+      "fighting",
+      "psychic"
+    ],
+    "colors": [
+      "#C03028",
+      "#F85888"
+    ]
+  },
+  "309-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "310-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "311-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "312-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "313-base": {
+    "types": [
+      "bug"
+    ],
+    "colors": [
+      "#A8B820"
+    ]
+  },
+  "314-base": {
+    "types": [
+      "bug"
+    ],
+    "colors": [
+      "#A8B820"
+    ]
+  },
+  "315-base": {
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "colors": [
+      "#78C850",
+      "#A040A0"
+    ]
+  },
+  "316-base": {
+    "types": [
+      "poison"
+    ],
+    "colors": [
+      "#A040A0"
+    ]
+  },
+  "317-base": {
+    "types": [
+      "poison"
+    ],
+    "colors": [
+      "#A040A0"
+    ]
+  },
+  "318-base": {
+    "types": [
+      "water",
+      "dark"
+    ],
+    "colors": [
+      "#6890F0",
+      "#705848"
+    ]
+  },
+  "319-base": {
+    "types": [
+      "water",
+      "dark"
+    ],
+    "colors": [
+      "#6890F0",
+      "#705848"
+    ]
+  },
+  "320-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "321-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "322-base": {
+    "types": [
+      "fire",
+      "ground"
+    ],
+    "colors": [
+      "#F08030",
+      "#E0C068"
+    ]
+  },
+  "323-base": {
+    "types": [
+      "fire",
+      "ground"
+    ],
+    "colors": [
+      "#F08030",
+      "#E0C068"
+    ]
+  },
+  "324-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "325-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "326-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "327-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "328-base": {
+    "types": [
+      "ground"
+    ],
+    "colors": [
+      "#E0C068"
+    ]
+  },
+  "329-base": {
+    "types": [
+      "ground",
+      "dragon"
+    ],
+    "colors": [
+      "#E0C068",
+      "#7038F8"
+    ]
+  },
+  "330-base": {
+    "types": [
+      "ground",
+      "dragon"
+    ],
+    "colors": [
+      "#E0C068",
+      "#7038F8"
+    ]
+  },
+  "331-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "332-base": {
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "colors": [
+      "#78C850",
+      "#705848"
+    ]
+  },
+  "333-base": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "334-base": {
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "colors": [
+      "#7038F8",
+      "#A890F0"
+    ]
+  },
+  "335-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "336-base": {
+    "types": [
+      "poison"
+    ],
+    "colors": [
+      "#A040A0"
+    ]
+  },
+  "337-base": {
+    "types": [
+      "rock",
+      "psychic"
+    ],
+    "colors": [
+      "#B8A038",
+      "#F85888"
+    ]
+  },
+  "338-base": {
+    "types": [
+      "rock",
+      "psychic"
+    ],
+    "colors": [
+      "#B8A038",
+      "#F85888"
+    ]
+  },
+  "339-base": {
+    "types": [
+      "water",
+      "ground"
+    ],
+    "colors": [
+      "#6890F0",
+      "#E0C068"
+    ]
+  },
+  "340-base": {
+    "types": [
+      "water",
+      "ground"
+    ],
+    "colors": [
+      "#6890F0",
+      "#E0C068"
+    ]
+  },
+  "341-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "342-base": {
+    "types": [
+      "water",
+      "dark"
+    ],
+    "colors": [
+      "#6890F0",
+      "#705848"
+    ]
+  },
+  "343-base": {
+    "types": [
+      "ground",
+      "psychic"
+    ],
+    "colors": [
+      "#E0C068",
+      "#F85888"
+    ]
+  },
+  "344-base": {
+    "types": [
+      "ground",
+      "psychic"
+    ],
+    "colors": [
+      "#E0C068",
+      "#F85888"
+    ]
+  },
+  "345-base": {
+    "types": [
+      "rock",
+      "grass"
+    ],
+    "colors": [
+      "#B8A038",
+      "#78C850"
+    ]
+  },
+  "346-base": {
+    "types": [
+      "rock",
+      "grass"
+    ],
+    "colors": [
+      "#B8A038",
+      "#78C850"
+    ]
+  },
+  "347-base": {
+    "types": [
+      "rock",
+      "bug"
+    ],
+    "colors": [
+      "#B8A038",
+      "#A8B820"
+    ]
+  },
+  "348-base": {
+    "types": [
+      "rock",
+      "bug"
+    ],
+    "colors": [
+      "#B8A038",
+      "#A8B820"
+    ]
+  },
+  "349-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "350-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "351-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "352-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "353-base": {
+    "types": [
+      "ghost"
+    ],
+    "colors": [
+      "#705898"
+    ]
+  },
+  "354-base": {
+    "types": [
+      "ghost"
+    ],
+    "colors": [
+      "#705898"
+    ]
+  },
+  "355-base": {
+    "types": [
+      "ghost"
+    ],
+    "colors": [
+      "#705898"
+    ]
+  },
+  "356-base": {
+    "types": [
+      "ghost"
+    ],
+    "colors": [
+      "#705898"
+    ]
+  },
+  "357-base": {
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "colors": [
+      "#78C850",
+      "#A890F0"
+    ]
+  },
+  "358-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "359-base": {
+    "types": [
+      "dark"
+    ],
+    "colors": [
+      "#705848"
+    ]
+  },
+  "360-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "361-base": {
+    "types": [
+      "ice"
+    ],
+    "colors": [
+      "#98D8D8"
+    ]
+  },
+  "362-base": {
+    "types": [
+      "ice"
+    ],
+    "colors": [
+      "#98D8D8"
+    ]
+  },
+  "363-base": {
+    "types": [
+      "ice",
+      "water"
+    ],
+    "colors": [
+      "#98D8D8",
+      "#6890F0"
+    ]
+  },
+  "364-base": {
+    "types": [
+      "ice",
+      "water"
+    ],
+    "colors": [
+      "#98D8D8",
+      "#6890F0"
+    ]
+  },
+  "365-base": {
+    "types": [
+      "ice",
+      "water"
+    ],
+    "colors": [
+      "#98D8D8",
+      "#6890F0"
+    ]
+  },
+  "366-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "367-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "368-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "369-base": {
+    "types": [
+      "water",
+      "rock"
+    ],
+    "colors": [
+      "#6890F0",
+      "#B8A038"
+    ]
+  },
+  "370-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "371-base": {
+    "types": [
+      "dragon"
+    ],
+    "colors": [
+      "#7038F8"
+    ]
+  },
+  "372-base": {
+    "types": [
+      "dragon"
+    ],
+    "colors": [
+      "#7038F8"
+    ]
+  },
+  "373-base": {
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "colors": [
+      "#7038F8",
+      "#A890F0"
+    ]
+  },
+  "374-base": {
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#F85888"
+    ]
+  },
+  "375-base": {
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#F85888"
+    ]
+  },
+  "376-base": {
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#F85888"
+    ]
+  },
+  "377-base": {
+    "types": [
+      "rock"
+    ],
+    "colors": [
+      "#B8A038"
+    ]
+  },
+  "378-base": {
+    "types": [
+      "ice"
+    ],
+    "colors": [
+      "#98D8D8"
+    ]
+  },
+  "379-base": {
+    "types": [
+      "steel"
+    ],
+    "colors": [
+      "#B8B8D0"
+    ]
+  },
+  "380-base": {
+    "types": [
+      "dragon",
+      "psychic"
+    ],
+    "colors": [
+      "#7038F8",
+      "#F85888"
+    ]
+  },
+  "381-base": {
+    "types": [
+      "dragon",
+      "psychic"
+    ],
+    "colors": [
+      "#7038F8",
+      "#F85888"
+    ]
+  },
+  "382-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "383-base": {
+    "types": [
+      "ground"
+    ],
+    "colors": [
+      "#E0C068"
+    ]
+  },
+  "384-base": {
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "colors": [
+      "#7038F8",
+      "#A890F0"
+    ]
+  },
+  "385-base": {
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#F85888"
+    ]
+  },
+  "387-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "388-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "389-base": {
+    "types": [
+      "grass",
+      "ground"
+    ],
+    "colors": [
+      "#78C850",
+      "#E0C068"
+    ]
+  },
+  "390-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "391-base": {
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "colors": [
+      "#F08030",
+      "#C03028"
+    ]
+  },
+  "392-base": {
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "colors": [
+      "#F08030",
+      "#C03028"
+    ]
+  },
+  "393-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "394-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "395-base": {
+    "types": [
+      "water",
+      "steel"
+    ],
+    "colors": [
+      "#6890F0",
+      "#B8B8D0"
+    ]
+  },
+  "396-base": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "397-base": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "398-base": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "399-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "400-base": {
+    "types": [
+      "normal",
+      "water"
+    ],
+    "colors": [
+      "#A8A878",
+      "#6890F0"
+    ]
+  },
+  "401-base": {
+    "types": [
+      "bug"
+    ],
+    "colors": [
+      "#A8B820"
+    ]
+  },
+  "402-base": {
+    "types": [
+      "bug"
+    ],
+    "colors": [
+      "#A8B820"
+    ]
+  },
+  "403-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "404-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "405-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "406-base": {
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "colors": [
+      "#78C850",
+      "#A040A0"
+    ]
+  },
+  "407-base": {
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "colors": [
+      "#78C850",
+      "#A040A0"
+    ]
+  },
+  "408-base": {
+    "types": [
+      "rock"
+    ],
+    "colors": [
+      "#B8A038"
+    ]
+  },
+  "409-base": {
+    "types": [
+      "rock"
+    ],
+    "colors": [
+      "#B8A038"
+    ]
+  },
+  "410-base": {
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "colors": [
+      "#B8A038",
+      "#B8B8D0"
+    ]
+  },
+  "411-base": {
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "colors": [
+      "#B8A038",
+      "#B8B8D0"
+    ]
+  },
+  "412-base": {
+    "types": [
+      "bug"
+    ],
+    "colors": [
+      "#A8B820"
+    ]
+  },
+  "414-base": {
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "colors": [
+      "#A8B820",
+      "#A890F0"
+    ]
+  },
+  "415-base": {
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "colors": [
+      "#A8B820",
+      "#A890F0"
+    ]
+  },
+  "416-base": {
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "colors": [
+      "#A8B820",
+      "#A890F0"
+    ]
+  },
+  "417-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "418-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "419-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "420-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "421-sunshine": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "422-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "422-east": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "423-base": {
+    "types": [
+      "water",
+      "ground"
+    ],
+    "colors": [
+      "#6890F0",
+      "#E0C068"
+    ]
+  },
+  "423-east": {
+    "types": [
+      "water",
+      "ground"
+    ],
+    "colors": [
+      "#6890F0",
+      "#E0C068"
+    ]
+  },
+  "424-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "425-base": {
+    "types": [
+      "ghost",
+      "flying"
+    ],
+    "colors": [
+      "#705898",
+      "#A890F0"
+    ]
+  },
+  "426-base": {
+    "types": [
+      "ghost",
+      "flying"
+    ],
+    "colors": [
+      "#705898",
+      "#A890F0"
+    ]
+  },
+  "427-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "428-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "429-base": {
+    "types": [
+      "ghost"
+    ],
+    "colors": [
+      "#705898"
+    ]
+  },
+  "430-base": {
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "colors": [
+      "#705848",
+      "#A890F0"
+    ]
+  },
+  "431-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "432-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "433-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "434-base": {
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "colors": [
+      "#A040A0",
+      "#705848"
+    ]
+  },
+  "435-base": {
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "colors": [
+      "#A040A0",
+      "#705848"
+    ]
+  },
+  "436-base": {
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#F85888"
+    ]
+  },
+  "437-base": {
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#F85888"
+    ]
+  },
+  "438-base": {
+    "types": [
+      "rock"
+    ],
+    "colors": [
+      "#B8A038"
+    ]
+  },
+  "439-base": {
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "colors": [
+      "#F85888",
+      "#EE99AC"
+    ]
+  },
+  "440-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "441-base": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "442-base": {
+    "types": [
+      "ghost",
+      "dark"
+    ],
+    "colors": [
+      "#705898",
+      "#705848"
+    ]
+  },
+  "443-base": {
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "colors": [
+      "#7038F8",
+      "#E0C068"
+    ]
+  },
+  "444-base": {
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "colors": [
+      "#7038F8",
+      "#E0C068"
+    ]
+  },
+  "445-base": {
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "colors": [
+      "#7038F8",
+      "#E0C068"
+    ]
+  },
+  "446-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "447-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "448-base": {
+    "types": [
+      "fighting",
+      "steel"
+    ],
+    "colors": [
+      "#C03028",
+      "#B8B8D0"
+    ]
+  },
+  "449-base": {
+    "types": [
+      "ground"
+    ],
+    "colors": [
+      "#E0C068"
+    ]
+  },
+  "450-base": {
+    "types": [
+      "ground"
+    ],
+    "colors": [
+      "#E0C068"
+    ]
+  },
+  "451-base": {
+    "types": [
+      "poison",
+      "bug"
+    ],
+    "colors": [
+      "#A040A0",
+      "#A8B820"
+    ]
+  },
+  "452-base": {
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "colors": [
+      "#A040A0",
+      "#705848"
+    ]
+  },
+  "453-base": {
+    "types": [
+      "poison",
+      "fighting"
+    ],
+    "colors": [
+      "#A040A0",
+      "#C03028"
+    ]
+  },
+  "454-base": {
+    "types": [
+      "poison",
+      "fighting"
+    ],
+    "colors": [
+      "#A040A0",
+      "#C03028"
+    ]
+  },
+  "455-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "456-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "457-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "458-base": {
+    "types": [
+      "water",
+      "flying"
+    ],
+    "colors": [
+      "#6890F0",
+      "#A890F0"
+    ]
+  },
+  "459-base": {
+    "types": [
+      "grass",
+      "ice"
+    ],
+    "colors": [
+      "#78C850",
+      "#98D8D8"
+    ]
+  },
+  "460-base": {
+    "types": [
+      "grass",
+      "ice"
+    ],
+    "colors": [
+      "#78C850",
+      "#98D8D8"
+    ]
+  },
+  "461-base": {
+    "types": [
+      "dark",
+      "ice"
+    ],
+    "colors": [
+      "#705848",
+      "#98D8D8"
+    ]
+  },
+  "462-base": {
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "colors": [
+      "#F8D030",
+      "#B8B8D0"
+    ]
+  },
+  "463-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "464-base": {
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "colors": [
+      "#E0C068",
+      "#B8A038"
+    ]
+  },
+  "465-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "466-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "467-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "468-base": {
+    "types": [
+      "fairy",
+      "flying"
+    ],
+    "colors": [
+      "#EE99AC",
+      "#A890F0"
+    ]
+  },
+  "469-base": {
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "colors": [
+      "#A8B820",
+      "#A890F0"
+    ]
+  },
+  "470-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "471-base": {
+    "types": [
+      "ice"
+    ],
+    "colors": [
+      "#98D8D8"
+    ]
+  },
+  "472-base": {
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "colors": [
+      "#E0C068",
+      "#A890F0"
+    ]
+  },
+  "473-base": {
+    "types": [
+      "ice",
+      "ground"
+    ],
+    "colors": [
+      "#98D8D8",
+      "#E0C068"
+    ]
+  },
+  "474-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "475-base": {
+    "types": [
+      "psychic",
+      "fighting"
+    ],
+    "colors": [
+      "#F85888",
+      "#C03028"
+    ]
+  },
+  "476-base": {
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "colors": [
+      "#B8A038",
+      "#B8B8D0"
+    ]
+  },
+  "477-base": {
+    "types": [
+      "ghost"
+    ],
+    "colors": [
+      "#705898"
+    ]
+  },
+  "478-base": {
+    "types": [
+      "ice",
+      "ghost"
+    ],
+    "colors": [
+      "#98D8D8",
+      "#705898"
+    ]
+  },
+  "479-base": {
+    "types": [
+      "electric",
+      "ghost"
+    ],
+    "colors": [
+      "#F8D030",
+      "#705898"
+    ]
+  },
+  "480-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "481-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "482-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "483-base": {
+    "types": [
+      "steel",
+      "dragon"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#7038F8"
+    ]
+  },
+  "483-origin": {
+    "types": [
+      "steel",
+      "dragon"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#7038F8"
+    ]
+  },
+  "484-base": {
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "colors": [
+      "#6890F0",
+      "#7038F8"
+    ]
+  },
+  "484-origin": {
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "colors": [
+      "#6890F0",
+      "#7038F8"
+    ]
+  },
+  "485-base": {
+    "types": [
+      "fire",
+      "steel"
+    ],
+    "colors": [
+      "#F08030",
+      "#B8B8D0"
+    ]
+  },
+  "486-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "487-origin": {
+    "types": [
+      "ghost",
+      "dragon"
+    ],
+    "colors": [
+      "#705898",
+      "#7038F8"
+    ]
+  },
+  "488-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "489-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "490-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "491-base": {
+    "types": [
+      "dark"
+    ],
+    "colors": [
+      "#705848"
+    ]
+  },
+  "493-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "494-base": {
+    "types": [
+      "psychic",
+      "fire"
+    ],
+    "colors": [
+      "#F85888",
+      "#F08030"
+    ]
+  },
+  "495-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "496-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "497-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "498-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "499-base": {
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "colors": [
+      "#F08030",
+      "#C03028"
+    ]
+  },
+  "500-base": {
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "colors": [
+      "#F08030",
+      "#C03028"
+    ]
+  },
+  "501-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "502-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "503-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "503-hisuian": {
+    "types": [
+      "water",
+      "dark"
+    ],
+    "colors": [
+      "#6890F0",
+      "#705848"
+    ]
+  },
+  "504-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "505-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "506-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "507-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "508-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "509-base": {
+    "types": [
+      "dark"
+    ],
+    "colors": [
+      "#705848"
+    ]
+  },
+  "510-base": {
+    "types": [
+      "dark"
+    ],
+    "colors": [
+      "#705848"
+    ]
+  },
+  "511-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "512-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "513-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "514-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "515-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "516-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "517-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "518-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "519-base": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "520-base": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "521-male": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "521-female": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "522-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "523-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "524-base": {
+    "types": [
+      "rock"
+    ],
+    "colors": [
+      "#B8A038"
+    ]
+  },
+  "525-base": {
+    "types": [
+      "rock"
+    ],
+    "colors": [
+      "#B8A038"
+    ]
+  },
+  "526-base": {
+    "types": [
+      "rock"
+    ],
+    "colors": [
+      "#B8A038"
+    ]
+  },
+  "527-base": {
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "colors": [
+      "#F85888",
+      "#A890F0"
+    ]
+  },
+  "528-base": {
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "colors": [
+      "#F85888",
+      "#A890F0"
+    ]
+  },
+  "529-base": {
+    "types": [
+      "ground"
+    ],
+    "colors": [
+      "#E0C068"
+    ]
+  },
+  "530-base": {
+    "types": [
+      "ground",
+      "steel"
+    ],
+    "colors": [
+      "#E0C068",
+      "#B8B8D0"
+    ]
+  },
+  "531-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "532-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "533-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "534-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "535-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "536-base": {
+    "types": [
+      "water",
+      "ground"
+    ],
+    "colors": [
+      "#6890F0",
+      "#E0C068"
+    ]
+  },
+  "537-base": {
+    "types": [
+      "water",
+      "ground"
+    ],
+    "colors": [
+      "#6890F0",
+      "#E0C068"
+    ]
+  },
+  "538-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "539-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "540-base": {
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "colors": [
+      "#A8B820",
+      "#78C850"
+    ]
+  },
+  "541-base": {
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "colors": [
+      "#A8B820",
+      "#78C850"
+    ]
+  },
+  "542-base": {
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "colors": [
+      "#A8B820",
+      "#78C850"
+    ]
+  },
+  "543-base": {
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "colors": [
+      "#A8B820",
+      "#A040A0"
+    ]
+  },
+  "544-base": {
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "colors": [
+      "#A8B820",
+      "#A040A0"
+    ]
+  },
+  "545-base": {
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "colors": [
+      "#A8B820",
+      "#A040A0"
+    ]
+  },
+  "546-base": {
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "colors": [
+      "#78C850",
+      "#EE99AC"
+    ]
+  },
+  "547-base": {
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "colors": [
+      "#78C850",
+      "#EE99AC"
+    ]
+  },
+  "548-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "549-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "549-hisuian": {
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "colors": [
+      "#78C850",
+      "#C03028"
+    ]
+  },
+  "551-base": {
+    "types": [
+      "ground",
+      "dark"
+    ],
+    "colors": [
+      "#E0C068",
+      "#705848"
+    ]
+  },
+  "552-base": {
+    "types": [
+      "ground",
+      "dark"
+    ],
+    "colors": [
+      "#E0C068",
+      "#705848"
+    ]
+  },
+  "553-base": {
+    "types": [
+      "ground",
+      "dark"
+    ],
+    "colors": [
+      "#E0C068",
+      "#705848"
+    ]
+  },
+  "554-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "554-galarian": {
+    "types": [
+      "ice"
+    ],
+    "colors": [
+      "#98D8D8"
+    ]
+  },
+  "556-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "557-base": {
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "colors": [
+      "#A8B820",
+      "#B8A038"
+    ]
+  },
+  "558-base": {
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "colors": [
+      "#A8B820",
+      "#B8A038"
+    ]
+  },
+  "559-base": {
+    "types": [
+      "dark",
+      "fighting"
+    ],
+    "colors": [
+      "#705848",
+      "#C03028"
+    ]
+  },
+  "560-base": {
+    "types": [
+      "dark",
+      "fighting"
+    ],
+    "colors": [
+      "#705848",
+      "#C03028"
+    ]
+  },
+  "561-base": {
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "colors": [
+      "#F85888",
+      "#A890F0"
+    ]
+  },
+  "562-base": {
+    "types": [
+      "ghost"
+    ],
+    "colors": [
+      "#705898"
+    ]
+  },
+  "562-galarian": {
+    "types": [
+      "ground",
+      "ghost"
+    ],
+    "colors": [
+      "#E0C068",
+      "#705898"
+    ]
+  },
+  "563-base": {
+    "types": [
+      "ghost"
+    ],
+    "colors": [
+      "#705898"
+    ]
+  },
+  "564-base": {
+    "types": [
+      "water",
+      "rock"
+    ],
+    "colors": [
+      "#6890F0",
+      "#B8A038"
+    ]
+  },
+  "565-base": {
+    "types": [
+      "water",
+      "rock"
+    ],
+    "colors": [
+      "#6890F0",
+      "#B8A038"
+    ]
+  },
+  "566-base": {
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "colors": [
+      "#B8A038",
+      "#A890F0"
+    ]
+  },
+  "567-base": {
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "colors": [
+      "#B8A038",
+      "#A890F0"
+    ]
+  },
+  "568-base": {
+    "types": [
+      "poison"
+    ],
+    "colors": [
+      "#A040A0"
+    ]
+  },
+  "569-base": {
+    "types": [
+      "poison"
+    ],
+    "colors": [
+      "#A040A0"
+    ]
+  },
+  "570-base": {
+    "types": [
+      "dark"
+    ],
+    "colors": [
+      "#705848"
+    ]
+  },
+  "570-hisuian": {
+    "types": [
+      "normal",
+      "ghost"
+    ],
+    "colors": [
+      "#A8A878",
+      "#705898"
+    ]
+  },
+  "571-base": {
+    "types": [
+      "dark"
+    ],
+    "colors": [
+      "#705848"
+    ]
+  },
+  "571-hisuian": {
+    "types": [
+      "normal",
+      "ghost"
+    ],
+    "colors": [
+      "#A8A878",
+      "#705898"
+    ]
+  },
+  "572-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "573-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "574-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "575-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "576-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "577-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "578-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "579-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "580-base": {
+    "types": [
+      "water",
+      "flying"
+    ],
+    "colors": [
+      "#6890F0",
+      "#A890F0"
+    ]
+  },
+  "581-base": {
+    "types": [
+      "water",
+      "flying"
+    ],
+    "colors": [
+      "#6890F0",
+      "#A890F0"
+    ]
+  },
+  "582-base": {
+    "types": [
+      "ice"
+    ],
+    "colors": [
+      "#98D8D8"
+    ]
+  },
+  "583-base": {
+    "types": [
+      "ice"
+    ],
+    "colors": [
+      "#98D8D8"
+    ]
+  },
+  "584-base": {
+    "types": [
+      "ice"
+    ],
+    "colors": [
+      "#98D8D8"
+    ]
+  },
+  "585-base": {
+    "types": [
+      "normal",
+      "grass"
+    ],
+    "colors": [
+      "#A8A878",
+      "#78C850"
+    ]
+  },
+  "586-base": {
+    "types": [
+      "normal",
+      "grass"
+    ],
+    "colors": [
+      "#A8A878",
+      "#78C850"
+    ]
+  },
+  "587-base": {
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "colors": [
+      "#F8D030",
+      "#A890F0"
+    ]
+  },
+  "588-base": {
+    "types": [
+      "bug"
+    ],
+    "colors": [
+      "#A8B820"
+    ]
+  },
+  "589-base": {
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "colors": [
+      "#A8B820",
+      "#B8B8D0"
+    ]
+  },
+  "590-base": {
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "colors": [
+      "#78C850",
+      "#A040A0"
+    ]
+  },
+  "591-base": {
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "colors": [
+      "#78C850",
+      "#A040A0"
+    ]
+  },
+  "592-male": {
+    "types": [
+      "water",
+      "ghost"
+    ],
+    "colors": [
+      "#6890F0",
+      "#705898"
+    ]
+  },
+  "592-female": {
+    "types": [
+      "water",
+      "ghost"
+    ],
+    "colors": [
+      "#6890F0",
+      "#705898"
+    ]
+  },
+  "593-male": {
+    "types": [
+      "water",
+      "ghost"
+    ],
+    "colors": [
+      "#6890F0",
+      "#705898"
+    ]
+  },
+  "593-female": {
+    "types": [
+      "water",
+      "ghost"
+    ],
+    "colors": [
+      "#6890F0",
+      "#705898"
+    ]
+  },
+  "594-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "595-base": {
+    "types": [
+      "bug",
+      "electric"
+    ],
+    "colors": [
+      "#A8B820",
+      "#F8D030"
+    ]
+  },
+  "596-base": {
+    "types": [
+      "bug",
+      "electric"
+    ],
+    "colors": [
+      "#A8B820",
+      "#F8D030"
+    ]
+  },
+  "597-base": {
+    "types": [
+      "grass",
+      "steel"
+    ],
+    "colors": [
+      "#78C850",
+      "#B8B8D0"
+    ]
+  },
+  "598-base": {
+    "types": [
+      "grass",
+      "steel"
+    ],
+    "colors": [
+      "#78C850",
+      "#B8B8D0"
+    ]
+  },
+  "599-base": {
+    "types": [
+      "steel"
+    ],
+    "colors": [
+      "#B8B8D0"
+    ]
+  },
+  "600-base": {
+    "types": [
+      "steel"
+    ],
+    "colors": [
+      "#B8B8D0"
+    ]
+  },
+  "601-base": {
+    "types": [
+      "steel"
+    ],
+    "colors": [
+      "#B8B8D0"
+    ]
+  },
+  "602-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "603-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "604-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "605-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "606-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "607-base": {
+    "types": [
+      "ghost",
+      "fire"
+    ],
+    "colors": [
+      "#705898",
+      "#F08030"
+    ]
+  },
+  "608-base": {
+    "types": [
+      "ghost",
+      "fire"
+    ],
+    "colors": [
+      "#705898",
+      "#F08030"
+    ]
+  },
+  "609-base": {
+    "types": [
+      "ghost",
+      "fire"
+    ],
+    "colors": [
+      "#705898",
+      "#F08030"
+    ]
+  },
+  "610-base": {
+    "types": [
+      "dragon"
+    ],
+    "colors": [
+      "#7038F8"
+    ]
+  },
+  "611-base": {
+    "types": [
+      "dragon"
+    ],
+    "colors": [
+      "#7038F8"
+    ]
+  },
+  "612-base": {
+    "types": [
+      "dragon"
+    ],
+    "colors": [
+      "#7038F8"
+    ]
+  },
+  "613-base": {
+    "types": [
+      "ice"
+    ],
+    "colors": [
+      "#98D8D8"
+    ]
+  },
+  "614-base": {
+    "types": [
+      "ice"
+    ],
+    "colors": [
+      "#98D8D8"
+    ]
+  },
+  "615-base": {
+    "types": [
+      "ice"
+    ],
+    "colors": [
+      "#98D8D8"
+    ]
+  },
+  "616-base": {
+    "types": [
+      "bug"
+    ],
+    "colors": [
+      "#A8B820"
+    ]
+  },
+  "617-base": {
+    "types": [
+      "bug"
+    ],
+    "colors": [
+      "#A8B820"
+    ]
+  },
+  "618-base": {
+    "types": [
+      "ground",
+      "electric"
+    ],
+    "colors": [
+      "#E0C068",
+      "#F8D030"
+    ]
+  },
+  "618-galarian": {
+    "types": [
+      "ground",
+      "steel"
+    ],
+    "colors": [
+      "#E0C068",
+      "#B8B8D0"
+    ]
+  },
+  "619-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "620-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "621-base": {
+    "types": [
+      "dragon"
+    ],
+    "colors": [
+      "#7038F8"
+    ]
+  },
+  "622-base": {
+    "types": [
+      "ground",
+      "ghost"
+    ],
+    "colors": [
+      "#E0C068",
+      "#705898"
+    ]
+  },
+  "623-base": {
+    "types": [
+      "ground",
+      "ghost"
+    ],
+    "colors": [
+      "#E0C068",
+      "#705898"
+    ]
+  },
+  "624-base": {
+    "types": [
+      "dark",
+      "steel"
+    ],
+    "colors": [
+      "#705848",
+      "#B8B8D0"
+    ]
+  },
+  "625-base": {
+    "types": [
+      "dark",
+      "steel"
+    ],
+    "colors": [
+      "#705848",
+      "#B8B8D0"
+    ]
+  },
+  "626-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "627-base": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "628-base": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "628-hisuian": {
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "colors": [
+      "#F85888",
+      "#A890F0"
+    ]
+  },
+  "629-base": {
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "colors": [
+      "#705848",
+      "#A890F0"
+    ]
+  },
+  "630-base": {
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "colors": [
+      "#705848",
+      "#A890F0"
+    ]
+  },
+  "631-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "632-base": {
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "colors": [
+      "#A8B820",
+      "#B8B8D0"
+    ]
+  },
+  "633-base": {
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "colors": [
+      "#705848",
+      "#7038F8"
+    ]
+  },
+  "634-base": {
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "colors": [
+      "#705848",
+      "#7038F8"
+    ]
+  },
+  "635-base": {
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "colors": [
+      "#705848",
+      "#7038F8"
+    ]
+  },
+  "636-base": {
+    "types": [
+      "bug",
+      "fire"
+    ],
+    "colors": [
+      "#A8B820",
+      "#F08030"
+    ]
+  },
+  "637-base": {
+    "types": [
+      "bug",
+      "fire"
+    ],
+    "colors": [
+      "#A8B820",
+      "#F08030"
+    ]
+  },
+  "638-base": {
+    "types": [
+      "steel",
+      "fighting"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#C03028"
+    ]
+  },
+  "639-base": {
+    "types": [
+      "rock",
+      "fighting"
+    ],
+    "colors": [
+      "#B8A038",
+      "#C03028"
+    ]
+  },
+  "640-base": {
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "colors": [
+      "#78C850",
+      "#C03028"
+    ]
+  },
+  "643-base": {
+    "types": [
+      "dragon",
+      "fire"
+    ],
+    "colors": [
+      "#7038F8",
+      "#F08030"
+    ]
+  },
+  "644-base": {
+    "types": [
+      "dragon",
+      "electric"
+    ],
+    "colors": [
+      "#7038F8",
+      "#F8D030"
+    ]
+  },
+  "646-base": {
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "colors": [
+      "#7038F8",
+      "#98D8D8"
+    ]
+  },
+  "646-black": {
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "colors": [
+      "#7038F8",
+      "#98D8D8"
+    ]
+  },
+  "646-white": {
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "colors": [
+      "#7038F8",
+      "#98D8D8"
+    ]
+  },
+  "649-base": {
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "colors": [
+      "#A8B820",
+      "#B8B8D0"
+    ]
+  },
+  "650-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "651-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "652-base": {
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "colors": [
+      "#78C850",
+      "#C03028"
+    ]
+  },
+  "653-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "654-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "655-base": {
+    "types": [
+      "fire",
+      "psychic"
+    ],
+    "colors": [
+      "#F08030",
+      "#F85888"
+    ]
+  },
+  "656-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "657-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "658-base": {
+    "types": [
+      "water",
+      "dark"
+    ],
+    "colors": [
+      "#6890F0",
+      "#705848"
+    ]
+  },
+  "659-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "660-base": {
+    "types": [
+      "normal",
+      "ground"
+    ],
+    "colors": [
+      "#A8A878",
+      "#E0C068"
+    ]
+  },
+  "661-base": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "662-base": {
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "colors": [
+      "#F08030",
+      "#A890F0"
+    ]
+  },
+  "663-base": {
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "colors": [
+      "#F08030",
+      "#A890F0"
+    ]
+  },
+  "664-base": {
+    "types": [
+      "bug"
+    ],
+    "colors": [
+      "#A8B820"
+    ]
+  },
+  "665-base": {
+    "types": [
+      "bug"
+    ],
+    "colors": [
+      "#A8B820"
+    ]
+  },
+  "666-base": {
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "colors": [
+      "#A8B820",
+      "#A890F0"
+    ]
+  },
+  "667-base": {
+    "types": [
+      "fire",
+      "normal"
+    ],
+    "colors": [
+      "#F08030",
+      "#A8A878"
+    ]
+  },
+  "668-male": {
+    "types": [
+      "fire",
+      "normal"
+    ],
+    "colors": [
+      "#F08030",
+      "#A8A878"
+    ]
+  },
+  "668-female": {
+    "types": [
+      "fire",
+      "normal"
+    ],
+    "colors": [
+      "#F08030",
+      "#A8A878"
+    ]
+  },
+  "669-base": {
+    "types": [
+      "fairy"
+    ],
+    "colors": [
+      "#EE99AC"
+    ]
+  },
+  "670-base": {
+    "types": [
+      "fairy"
+    ],
+    "colors": [
+      "#EE99AC"
+    ]
+  },
+  "671-base": {
+    "types": [
+      "fairy"
+    ],
+    "colors": [
+      "#EE99AC"
+    ]
+  },
+  "672-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "673-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "674-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "675-base": {
+    "types": [
+      "fighting",
+      "dark"
+    ],
+    "colors": [
+      "#C03028",
+      "#705848"
+    ]
+  },
+  "676-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "677-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "679-base": {
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#705898"
+    ]
+  },
+  "680-base": {
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#705898"
+    ]
+  },
+  "682-base": {
+    "types": [
+      "fairy"
+    ],
+    "colors": [
+      "#EE99AC"
+    ]
+  },
+  "683-base": {
+    "types": [
+      "fairy"
+    ],
+    "colors": [
+      "#EE99AC"
+    ]
+  },
+  "684-base": {
+    "types": [
+      "fairy"
+    ],
+    "colors": [
+      "#EE99AC"
+    ]
+  },
+  "685-base": {
+    "types": [
+      "fairy"
+    ],
+    "colors": [
+      "#EE99AC"
+    ]
+  },
+  "686-base": {
+    "types": [
+      "dark",
+      "psychic"
+    ],
+    "colors": [
+      "#705848",
+      "#F85888"
+    ]
+  },
+  "687-base": {
+    "types": [
+      "dark",
+      "psychic"
+    ],
+    "colors": [
+      "#705848",
+      "#F85888"
+    ]
+  },
+  "688-base": {
+    "types": [
+      "rock",
+      "water"
+    ],
+    "colors": [
+      "#B8A038",
+      "#6890F0"
+    ]
+  },
+  "689-base": {
+    "types": [
+      "rock",
+      "water"
+    ],
+    "colors": [
+      "#B8A038",
+      "#6890F0"
+    ]
+  },
+  "690-base": {
+    "types": [
+      "poison",
+      "water"
+    ],
+    "colors": [
+      "#A040A0",
+      "#6890F0"
+    ]
+  },
+  "691-base": {
+    "types": [
+      "poison",
+      "dragon"
+    ],
+    "colors": [
+      "#A040A0",
+      "#7038F8"
+    ]
+  },
+  "692-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "693-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "694-base": {
+    "types": [
+      "electric",
+      "normal"
+    ],
+    "colors": [
+      "#F8D030",
+      "#A8A878"
+    ]
+  },
+  "695-base": {
+    "types": [
+      "electric",
+      "normal"
+    ],
+    "colors": [
+      "#F8D030",
+      "#A8A878"
+    ]
+  },
+  "696-base": {
+    "types": [
+      "rock",
+      "dragon"
+    ],
+    "colors": [
+      "#B8A038",
+      "#7038F8"
+    ]
+  },
+  "697-base": {
+    "types": [
+      "rock",
+      "dragon"
+    ],
+    "colors": [
+      "#B8A038",
+      "#7038F8"
+    ]
+  },
+  "698-base": {
+    "types": [
+      "rock",
+      "ice"
+    ],
+    "colors": [
+      "#B8A038",
+      "#98D8D8"
+    ]
+  },
+  "699-base": {
+    "types": [
+      "rock",
+      "ice"
+    ],
+    "colors": [
+      "#B8A038",
+      "#98D8D8"
+    ]
+  },
+  "700-base": {
+    "types": [
+      "fairy"
+    ],
+    "colors": [
+      "#EE99AC"
+    ]
+  },
+  "701-base": {
+    "types": [
+      "fighting",
+      "flying"
+    ],
+    "colors": [
+      "#C03028",
+      "#A890F0"
+    ]
+  },
+  "702-base": {
+    "types": [
+      "electric",
+      "fairy"
+    ],
+    "colors": [
+      "#F8D030",
+      "#EE99AC"
+    ]
+  },
+  "703-base": {
+    "types": [
+      "rock",
+      "fairy"
+    ],
+    "colors": [
+      "#B8A038",
+      "#EE99AC"
+    ]
+  },
+  "704-base": {
+    "types": [
+      "dragon"
+    ],
+    "colors": [
+      "#7038F8"
+    ]
+  },
+  "705-base": {
+    "types": [
+      "dragon"
+    ],
+    "colors": [
+      "#7038F8"
+    ]
+  },
+  "705-hisuian": {
+    "types": [
+      "steel",
+      "dragon"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#7038F8"
+    ]
+  },
+  "706-base": {
+    "types": [
+      "dragon"
+    ],
+    "colors": [
+      "#7038F8"
+    ]
+  },
+  "706-hisuian": {
+    "types": [
+      "steel",
+      "dragon"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#7038F8"
+    ]
+  },
+  "707-base": {
+    "types": [
+      "steel",
+      "fairy"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#EE99AC"
+    ]
+  },
+  "708-base": {
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "colors": [
+      "#705898",
+      "#78C850"
+    ]
+  },
+  "709-base": {
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "colors": [
+      "#705898",
+      "#78C850"
+    ]
+  },
+  "712-base": {
+    "types": [
+      "ice"
+    ],
+    "colors": [
+      "#98D8D8"
+    ]
+  },
+  "713-base": {
+    "types": [
+      "ice"
+    ],
+    "colors": [
+      "#98D8D8"
+    ]
+  },
+  "713-hisuian": {
+    "types": [
+      "ice",
+      "rock"
+    ],
+    "colors": [
+      "#98D8D8",
+      "#B8A038"
+    ]
+  },
+  "714-base": {
+    "types": [
+      "flying",
+      "dragon"
+    ],
+    "colors": [
+      "#A890F0",
+      "#7038F8"
+    ]
+  },
+  "715-base": {
+    "types": [
+      "flying",
+      "dragon"
+    ],
+    "colors": [
+      "#A890F0",
+      "#7038F8"
+    ]
+  },
+  "716-base": {
+    "types": [
+      "fairy"
+    ],
+    "colors": [
+      "#EE99AC"
+    ]
+  },
+  "717-base": {
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "colors": [
+      "#705848",
+      "#A890F0"
+    ]
+  },
+  "719-base": {
+    "types": [
+      "rock",
+      "fairy"
+    ],
+    "colors": [
+      "#B8A038",
+      "#EE99AC"
+    ]
+  },
+  "720-base": {
+    "types": [
+      "psychic",
+      "ghost"
+    ],
+    "colors": [
+      "#F85888",
+      "#705898"
+    ]
+  },
+  "721-base": {
+    "types": [
+      "fire",
+      "water"
+    ],
+    "colors": [
+      "#F08030",
+      "#6890F0"
+    ]
+  },
+  "722-base": {
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "colors": [
+      "#78C850",
+      "#A890F0"
+    ]
+  },
+  "723-base": {
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "colors": [
+      "#78C850",
+      "#A890F0"
+    ]
+  },
+  "724-base": {
+    "types": [
+      "grass",
+      "ghost"
+    ],
+    "colors": [
+      "#78C850",
+      "#705898"
+    ]
+  },
+  "724-hisuian": {
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "colors": [
+      "#78C850",
+      "#C03028"
+    ]
+  },
+  "725-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "726-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "727-base": {
+    "types": [
+      "fire",
+      "dark"
+    ],
+    "colors": [
+      "#F08030",
+      "#705848"
+    ]
+  },
+  "728-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "729-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "730-base": {
+    "types": [
+      "water",
+      "fairy"
+    ],
+    "colors": [
+      "#6890F0",
+      "#EE99AC"
+    ]
+  },
+  "731-base": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "732-base": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "733-base": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "734-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "735-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "736-base": {
+    "types": [
+      "bug"
+    ],
+    "colors": [
+      "#A8B820"
+    ]
+  },
+  "737-base": {
+    "types": [
+      "bug",
+      "electric"
+    ],
+    "colors": [
+      "#A8B820",
+      "#F8D030"
+    ]
+  },
+  "738-base": {
+    "types": [
+      "bug",
+      "electric"
+    ],
+    "colors": [
+      "#A8B820",
+      "#F8D030"
+    ]
+  },
+  "739-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "740-base": {
+    "types": [
+      "fighting",
+      "ice"
+    ],
+    "colors": [
+      "#C03028",
+      "#98D8D8"
+    ]
+  },
+  "742-base": {
+    "types": [
+      "bug",
+      "fairy"
+    ],
+    "colors": [
+      "#A8B820",
+      "#EE99AC"
+    ]
+  },
+  "743-base": {
+    "types": [
+      "bug",
+      "fairy"
+    ],
+    "colors": [
+      "#A8B820",
+      "#EE99AC"
+    ]
+  },
+  "744-base": {
+    "types": [
+      "rock"
+    ],
+    "colors": [
+      "#B8A038"
+    ]
+  },
+  "747-base": {
+    "types": [
+      "poison",
+      "water"
+    ],
+    "colors": [
+      "#A040A0",
+      "#6890F0"
+    ]
+  },
+  "748-base": {
+    "types": [
+      "poison",
+      "water"
+    ],
+    "colors": [
+      "#A040A0",
+      "#6890F0"
+    ]
+  },
+  "749-base": {
+    "types": [
+      "ground"
+    ],
+    "colors": [
+      "#E0C068"
+    ]
+  },
+  "750-base": {
+    "types": [
+      "ground"
+    ],
+    "colors": [
+      "#E0C068"
+    ]
+  },
+  "751-base": {
+    "types": [
+      "water",
+      "bug"
+    ],
+    "colors": [
+      "#6890F0",
+      "#A8B820"
+    ]
+  },
+  "752-base": {
+    "types": [
+      "water",
+      "bug"
+    ],
+    "colors": [
+      "#6890F0",
+      "#A8B820"
+    ]
+  },
+  "753-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "754-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "755-base": {
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "colors": [
+      "#78C850",
+      "#EE99AC"
+    ]
+  },
+  "756-base": {
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "colors": [
+      "#78C850",
+      "#EE99AC"
+    ]
+  },
+  "757-base": {
+    "types": [
+      "poison",
+      "fire"
+    ],
+    "colors": [
+      "#A040A0",
+      "#F08030"
+    ]
+  },
+  "758-base": {
+    "types": [
+      "poison",
+      "fire"
+    ],
+    "colors": [
+      "#A040A0",
+      "#F08030"
+    ]
+  },
+  "759-base": {
+    "types": [
+      "normal",
+      "fighting"
+    ],
+    "colors": [
+      "#A8A878",
+      "#C03028"
+    ]
+  },
+  "760-base": {
+    "types": [
+      "normal",
+      "fighting"
+    ],
+    "colors": [
+      "#A8A878",
+      "#C03028"
+    ]
+  },
+  "761-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "762-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "763-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "764-base": {
+    "types": [
+      "fairy"
+    ],
+    "colors": [
+      "#EE99AC"
+    ]
+  },
+  "765-base": {
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "colors": [
+      "#A8A878",
+      "#F85888"
+    ]
+  },
+  "766-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "767-base": {
+    "types": [
+      "bug",
+      "water"
+    ],
+    "colors": [
+      "#A8B820",
+      "#6890F0"
+    ]
+  },
+  "768-base": {
+    "types": [
+      "bug",
+      "water"
+    ],
+    "colors": [
+      "#A8B820",
+      "#6890F0"
+    ]
+  },
+  "769-base": {
+    "types": [
+      "ghost",
+      "ground"
+    ],
+    "colors": [
+      "#705898",
+      "#E0C068"
+    ]
+  },
+  "770-base": {
+    "types": [
+      "ghost",
+      "ground"
+    ],
+    "colors": [
+      "#705898",
+      "#E0C068"
+    ]
+  },
+  "771-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "772-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "773-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "775-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "776-base": {
+    "types": [
+      "fire",
+      "dragon"
+    ],
+    "colors": [
+      "#F08030",
+      "#7038F8"
+    ]
+  },
+  "777-base": {
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "colors": [
+      "#F8D030",
+      "#B8B8D0"
+    ]
+  },
+  "779-base": {
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "colors": [
+      "#6890F0",
+      "#F85888"
+    ]
+  },
+  "780-base": {
+    "types": [
+      "normal",
+      "dragon"
+    ],
+    "colors": [
+      "#A8A878",
+      "#7038F8"
+    ]
+  },
+  "781-base": {
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "colors": [
+      "#705898",
+      "#78C850"
+    ]
+  },
+  "782-base": {
+    "types": [
+      "dragon"
+    ],
+    "colors": [
+      "#7038F8"
+    ]
+  },
+  "783-base": {
+    "types": [
+      "dragon",
+      "fighting"
+    ],
+    "colors": [
+      "#7038F8",
+      "#C03028"
+    ]
+  },
+  "784-base": {
+    "types": [
+      "dragon",
+      "fighting"
+    ],
+    "colors": [
+      "#7038F8",
+      "#C03028"
+    ]
+  },
+  "785-base": {
+    "types": [
+      "electric",
+      "fairy"
+    ],
+    "colors": [
+      "#F8D030",
+      "#EE99AC"
+    ]
+  },
+  "786-base": {
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "colors": [
+      "#F85888",
+      "#EE99AC"
+    ]
+  },
+  "787-base": {
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "colors": [
+      "#78C850",
+      "#EE99AC"
+    ]
+  },
+  "788-base": {
+    "types": [
+      "water",
+      "fairy"
+    ],
+    "colors": [
+      "#6890F0",
+      "#EE99AC"
+    ]
+  },
+  "789-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "790-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "791-base": {
+    "types": [
+      "psychic",
+      "steel"
+    ],
+    "colors": [
+      "#F85888",
+      "#B8B8D0"
+    ]
+  },
+  "792-base": {
+    "types": [
+      "psychic",
+      "ghost"
+    ],
+    "colors": [
+      "#F85888",
+      "#705898"
+    ]
+  },
+  "793-base": {
+    "types": [
+      "rock",
+      "poison"
+    ],
+    "colors": [
+      "#B8A038",
+      "#A040A0"
+    ]
+  },
+  "794-base": {
+    "types": [
+      "bug",
+      "fighting"
+    ],
+    "colors": [
+      "#A8B820",
+      "#C03028"
+    ]
+  },
+  "795-base": {
+    "types": [
+      "bug",
+      "fighting"
+    ],
+    "colors": [
+      "#A8B820",
+      "#C03028"
+    ]
+  },
+  "796-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "797-base": {
+    "types": [
+      "steel",
+      "flying"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#A890F0"
+    ]
+  },
+  "798-base": {
+    "types": [
+      "grass",
+      "steel"
+    ],
+    "colors": [
+      "#78C850",
+      "#B8B8D0"
+    ]
+  },
+  "799-base": {
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "colors": [
+      "#705848",
+      "#7038F8"
+    ]
+  },
+  "800-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "800-dawnwings": {
+    "types": [
+      "psychic",
+      "ghost"
+    ],
+    "colors": [
+      "#F85888",
+      "#705898"
+    ]
+  },
+  "800-duskmane": {
+    "types": [
+      "psychic",
+      "steel"
+    ],
+    "colors": [
+      "#F85888",
+      "#B8B8D0"
+    ]
+  },
+  "800-ultra": {
+    "types": [
+      "psychic",
+      "dragon"
+    ],
+    "colors": [
+      "#F85888",
+      "#7038F8"
+    ]
+  },
+  "801-base": {
+    "types": [
+      "steel",
+      "fairy"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#EE99AC"
+    ]
+  },
+  "802-base": {
+    "types": [
+      "fighting",
+      "ghost"
+    ],
+    "colors": [
+      "#C03028",
+      "#705898"
+    ]
+  },
+  "803-base": {
+    "types": [
+      "poison"
+    ],
+    "colors": [
+      "#A040A0"
+    ]
+  },
+  "804-base": {
+    "types": [
+      "poison",
+      "dragon"
+    ],
+    "colors": [
+      "#A040A0",
+      "#7038F8"
+    ]
+  },
+  "805-base": {
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "colors": [
+      "#B8A038",
+      "#B8B8D0"
+    ]
+  },
+  "806-base": {
+    "types": [
+      "fire",
+      "ghost"
+    ],
+    "colors": [
+      "#F08030",
+      "#705898"
+    ]
+  },
+  "807-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "808-base": {
+    "types": [
+      "steel"
+    ],
+    "colors": [
+      "#B8B8D0"
+    ]
+  },
+  "809-base": {
+    "types": [
+      "steel"
+    ],
+    "colors": [
+      "#B8B8D0"
+    ]
+  },
+  "810-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "811-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "812-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "813-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "814-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "815-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "816-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "817-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "818-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "819-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "820-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "821-base": {
+    "types": [
+      "flying"
+    ],
+    "colors": [
+      "#A890F0"
+    ]
+  },
+  "822-base": {
+    "types": [
+      "flying"
+    ],
+    "colors": [
+      "#A890F0"
+    ]
+  },
+  "823-base": {
+    "types": [
+      "flying",
+      "steel"
+    ],
+    "colors": [
+      "#A890F0",
+      "#B8B8D0"
+    ]
+  },
+  "824-base": {
+    "types": [
+      "bug"
+    ],
+    "colors": [
+      "#A8B820"
+    ]
+  },
+  "825-base": {
+    "types": [
+      "bug",
+      "psychic"
+    ],
+    "colors": [
+      "#A8B820",
+      "#F85888"
+    ]
+  },
+  "826-base": {
+    "types": [
+      "bug",
+      "psychic"
+    ],
+    "colors": [
+      "#A8B820",
+      "#F85888"
+    ]
+  },
+  "827-base": {
+    "types": [
+      "dark"
+    ],
+    "colors": [
+      "#705848"
+    ]
+  },
+  "828-base": {
+    "types": [
+      "dark"
+    ],
+    "colors": [
+      "#705848"
+    ]
+  },
+  "829-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "830-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "831-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "832-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "833-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "834-base": {
+    "types": [
+      "water",
+      "rock"
+    ],
+    "colors": [
+      "#6890F0",
+      "#B8A038"
+    ]
+  },
+  "835-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "836-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "837-base": {
+    "types": [
+      "rock"
+    ],
+    "colors": [
+      "#B8A038"
+    ]
+  },
+  "838-base": {
+    "types": [
+      "rock",
+      "fire"
+    ],
+    "colors": [
+      "#B8A038",
+      "#F08030"
+    ]
+  },
+  "839-base": {
+    "types": [
+      "rock",
+      "fire"
+    ],
+    "colors": [
+      "#B8A038",
+      "#F08030"
+    ]
+  },
+  "840-base": {
+    "types": [
+      "grass",
+      "dragon"
+    ],
+    "colors": [
+      "#78C850",
+      "#7038F8"
+    ]
+  },
+  "841-base": {
+    "types": [
+      "grass",
+      "dragon"
+    ],
+    "colors": [
+      "#78C850",
+      "#7038F8"
+    ]
+  },
+  "842-base": {
+    "types": [
+      "grass",
+      "dragon"
+    ],
+    "colors": [
+      "#78C850",
+      "#7038F8"
+    ]
+  },
+  "843-base": {
+    "types": [
+      "ground"
+    ],
+    "colors": [
+      "#E0C068"
+    ]
+  },
+  "844-base": {
+    "types": [
+      "ground"
+    ],
+    "colors": [
+      "#E0C068"
+    ]
+  },
+  "845-base": {
+    "types": [
+      "flying",
+      "water"
+    ],
+    "colors": [
+      "#A890F0",
+      "#6890F0"
+    ]
+  },
+  "846-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "847-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "848-base": {
+    "types": [
+      "electric",
+      "poison"
+    ],
+    "colors": [
+      "#F8D030",
+      "#A040A0"
+    ]
+  },
+  "850-base": {
+    "types": [
+      "fire",
+      "bug"
+    ],
+    "colors": [
+      "#F08030",
+      "#A8B820"
+    ]
+  },
+  "851-base": {
+    "types": [
+      "fire",
+      "bug"
+    ],
+    "colors": [
+      "#F08030",
+      "#A8B820"
+    ]
+  },
+  "852-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "853-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "854-base": {
+    "types": [
+      "ghost"
+    ],
+    "colors": [
+      "#705898"
+    ]
+  },
+  "855-base": {
+    "types": [
+      "ghost"
+    ],
+    "colors": [
+      "#705898"
+    ]
+  },
+  "856-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "857-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "858-base": {
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "colors": [
+      "#F85888",
+      "#EE99AC"
+    ]
+  },
+  "859-base": {
+    "types": [
+      "dark",
+      "fairy"
+    ],
+    "colors": [
+      "#705848",
+      "#EE99AC"
+    ]
+  },
+  "860-base": {
+    "types": [
+      "dark",
+      "fairy"
+    ],
+    "colors": [
+      "#705848",
+      "#EE99AC"
+    ]
+  },
+  "861-base": {
+    "types": [
+      "dark",
+      "fairy"
+    ],
+    "colors": [
+      "#705848",
+      "#EE99AC"
+    ]
+  },
+  "862-base": {
+    "types": [
+      "dark",
+      "normal"
+    ],
+    "colors": [
+      "#705848",
+      "#A8A878"
+    ]
+  },
+  "863-base": {
+    "types": [
+      "steel"
+    ],
+    "colors": [
+      "#B8B8D0"
+    ]
+  },
+  "864-base": {
+    "types": [
+      "ghost"
+    ],
+    "colors": [
+      "#705898"
+    ]
+  },
+  "865-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "866-base": {
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "colors": [
+      "#98D8D8",
+      "#F85888"
+    ]
+  },
+  "867-base": {
+    "types": [
+      "ground",
+      "ghost"
+    ],
+    "colors": [
+      "#E0C068",
+      "#705898"
+    ]
+  },
+  "868-base": {
+    "types": [
+      "fairy"
+    ],
+    "colors": [
+      "#EE99AC"
+    ]
+  },
+  "869-base": {
+    "types": [
+      "fairy"
+    ],
+    "colors": [
+      "#EE99AC"
+    ]
+  },
+  "870-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "871-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "872-base": {
+    "types": [
+      "ice",
+      "bug"
+    ],
+    "colors": [
+      "#98D8D8",
+      "#A8B820"
+    ]
+  },
+  "873-base": {
+    "types": [
+      "ice",
+      "bug"
+    ],
+    "colors": [
+      "#98D8D8",
+      "#A8B820"
+    ]
+  },
+  "874-base": {
+    "types": [
+      "rock"
+    ],
+    "colors": [
+      "#B8A038"
+    ]
+  },
+  "878-base": {
+    "types": [
+      "steel"
+    ],
+    "colors": [
+      "#B8B8D0"
+    ]
+  },
+  "879-base": {
+    "types": [
+      "steel"
+    ],
+    "colors": [
+      "#B8B8D0"
+    ]
+  },
+  "880-base": {
+    "types": [
+      "electric",
+      "dragon"
+    ],
+    "colors": [
+      "#F8D030",
+      "#7038F8"
+    ]
+  },
+  "881-base": {
+    "types": [
+      "electric",
+      "ice"
+    ],
+    "colors": [
+      "#F8D030",
+      "#98D8D8"
+    ]
+  },
+  "882-base": {
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "colors": [
+      "#6890F0",
+      "#7038F8"
+    ]
+  },
+  "883-base": {
+    "types": [
+      "water",
+      "ice"
+    ],
+    "colors": [
+      "#6890F0",
+      "#98D8D8"
+    ]
+  },
+  "884-base": {
+    "types": [
+      "steel",
+      "dragon"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#7038F8"
+    ]
+  },
+  "885-base": {
+    "types": [
+      "dragon",
+      "ghost"
+    ],
+    "colors": [
+      "#7038F8",
+      "#705898"
+    ]
+  },
+  "886-base": {
+    "types": [
+      "dragon",
+      "ghost"
+    ],
+    "colors": [
+      "#7038F8",
+      "#705898"
+    ]
+  },
+  "887-base": {
+    "types": [
+      "dragon",
+      "ghost"
+    ],
+    "colors": [
+      "#7038F8",
+      "#705898"
+    ]
+  },
+  "888-base": {
+    "types": [
+      "fairy"
+    ],
+    "colors": [
+      "#EE99AC"
+    ]
+  },
+  "889-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "890-base": {
+    "types": [
+      "poison",
+      "dragon"
+    ],
+    "colors": [
+      "#A040A0",
+      "#7038F8"
+    ]
+  },
+  "891-base": {
+    "types": [
+      "fighting"
+    ],
+    "colors": [
+      "#C03028"
+    ]
+  },
+  "892-rapid-strike": {
+    "types": [
+      "fighting",
+      "water"
+    ],
+    "colors": [
+      "#C03028",
+      "#6890F0"
+    ]
+  },
+  "892-single-strike": {
+    "types": [
+      "fighting",
+      "dark"
+    ],
+    "colors": [
+      "#C03028",
+      "#705848"
+    ]
+  },
+  "893-base": {
+    "types": [
+      "dark",
+      "grass"
+    ],
+    "colors": [
+      "#705848",
+      "#78C850"
+    ]
+  },
+  "894-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "895-base": {
+    "types": [
+      "dragon"
+    ],
+    "colors": [
+      "#7038F8"
+    ]
+  },
+  "896-base": {
+    "types": [
+      "ice"
+    ],
+    "colors": [
+      "#98D8D8"
+    ]
+  },
+  "897-base": {
+    "types": [
+      "ghost"
+    ],
+    "colors": [
+      "#705898"
+    ]
+  },
+  "898-base": {
+    "types": [
+      "psychic",
+      "grass"
+    ],
+    "colors": [
+      "#F85888",
+      "#78C850"
+    ]
+  },
+  "899-base": {
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "colors": [
+      "#A8A878",
+      "#F85888"
+    ]
+  },
+  "900-base": {
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "colors": [
+      "#A8B820",
+      "#B8A038"
+    ]
+  },
+  "901-base": {
+    "types": [
+      "ground",
+      "normal"
+    ],
+    "colors": [
+      "#E0C068",
+      "#A8A878"
+    ]
+  },
+  "901-bloodmoon": {
+    "types": [
+      "ground",
+      "normal"
+    ],
+    "colors": [
+      "#E0C068",
+      "#A8A878"
+    ]
+  },
+  "903-base": {
+    "types": [
+      "fighting",
+      "poison"
+    ],
+    "colors": [
+      "#C03028",
+      "#A040A0"
+    ]
+  },
+  "904-base": {
+    "types": [
+      "dark",
+      "poison"
+    ],
+    "colors": [
+      "#705848",
+      "#A040A0"
+    ]
+  },
+  "906-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "907-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "908-base": {
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "colors": [
+      "#78C850",
+      "#705848"
+    ]
+  },
+  "909-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "910-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "911-base": {
+    "types": [
+      "fire",
+      "ghost"
+    ],
+    "colors": [
+      "#F08030",
+      "#705898"
+    ]
+  },
+  "912-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "913-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "914-base": {
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "colors": [
+      "#6890F0",
+      "#C03028"
+    ]
+  },
+  "915-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "917-base": {
+    "types": [
+      "bug"
+    ],
+    "colors": [
+      "#A8B820"
+    ]
+  },
+  "918-base": {
+    "types": [
+      "bug"
+    ],
+    "colors": [
+      "#A8B820"
+    ]
+  },
+  "919-base": {
+    "types": [
+      "bug"
+    ],
+    "colors": [
+      "#A8B820"
+    ]
+  },
+  "920-base": {
+    "types": [
+      "bug",
+      "dark"
+    ],
+    "colors": [
+      "#A8B820",
+      "#705848"
+    ]
+  },
+  "921-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "922-base": {
+    "types": [
+      "electric",
+      "fighting"
+    ],
+    "colors": [
+      "#F8D030",
+      "#C03028"
+    ]
+  },
+  "923-base": {
+    "types": [
+      "electric",
+      "fighting"
+    ],
+    "colors": [
+      "#F8D030",
+      "#C03028"
+    ]
+  },
+  "924-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "926-base": {
+    "types": [
+      "fairy"
+    ],
+    "colors": [
+      "#EE99AC"
+    ]
+  },
+  "927-base": {
+    "types": [
+      "fairy"
+    ],
+    "colors": [
+      "#EE99AC"
+    ]
+  },
+  "928-base": {
+    "types": [
+      "grass",
+      "normal"
+    ],
+    "colors": [
+      "#78C850",
+      "#A8A878"
+    ]
+  },
+  "929-base": {
+    "types": [
+      "grass",
+      "normal"
+    ],
+    "colors": [
+      "#78C850",
+      "#A8A878"
+    ]
+  },
+  "930-base": {
+    "types": [
+      "grass",
+      "normal"
+    ],
+    "colors": [
+      "#78C850",
+      "#A8A878"
+    ]
+  },
+  "932-base": {
+    "types": [
+      "rock"
+    ],
+    "colors": [
+      "#B8A038"
+    ]
+  },
+  "933-base": {
+    "types": [
+      "rock"
+    ],
+    "colors": [
+      "#B8A038"
+    ]
+  },
+  "934-base": {
+    "types": [
+      "rock"
+    ],
+    "colors": [
+      "#B8A038"
+    ]
+  },
+  "935-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "936-base": {
+    "types": [
+      "fire",
+      "psychic"
+    ],
+    "colors": [
+      "#F08030",
+      "#F85888"
+    ]
+  },
+  "937-base": {
+    "types": [
+      "fire",
+      "ghost"
+    ],
+    "colors": [
+      "#F08030",
+      "#705898"
+    ]
+  },
+  "938-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "939-base": {
+    "types": [
+      "electric"
+    ],
+    "colors": [
+      "#F8D030"
+    ]
+  },
+  "940-base": {
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "colors": [
+      "#F8D030",
+      "#A890F0"
+    ]
+  },
+  "941-base": {
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "colors": [
+      "#F8D030",
+      "#A890F0"
+    ]
+  },
+  "942-base": {
+    "types": [
+      "dark"
+    ],
+    "colors": [
+      "#705848"
+    ]
+  },
+  "943-base": {
+    "types": [
+      "dark"
+    ],
+    "colors": [
+      "#705848"
+    ]
+  },
+  "944-base": {
+    "types": [
+      "poison",
+      "normal"
+    ],
+    "colors": [
+      "#A040A0",
+      "#A8A878"
+    ]
+  },
+  "945-base": {
+    "types": [
+      "poison",
+      "normal"
+    ],
+    "colors": [
+      "#A040A0",
+      "#A8A878"
+    ]
+  },
+  "946-base": {
+    "types": [
+      "grass",
+      "ghost"
+    ],
+    "colors": [
+      "#78C850",
+      "#705898"
+    ]
+  },
+  "947-base": {
+    "types": [
+      "grass",
+      "ghost"
+    ],
+    "colors": [
+      "#78C850",
+      "#705898"
+    ]
+  },
+  "948-base": {
+    "types": [
+      "ground",
+      "grass"
+    ],
+    "colors": [
+      "#E0C068",
+      "#78C850"
+    ]
+  },
+  "949-base": {
+    "types": [
+      "ground",
+      "grass"
+    ],
+    "colors": [
+      "#E0C068",
+      "#78C850"
+    ]
+  },
+  "950-base": {
+    "types": [
+      "rock"
+    ],
+    "colors": [
+      "#B8A038"
+    ]
+  },
+  "951-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "952-base": {
+    "types": [
+      "grass",
+      "fire"
+    ],
+    "colors": [
+      "#78C850",
+      "#F08030"
+    ]
+  },
+  "953-base": {
+    "types": [
+      "bug"
+    ],
+    "colors": [
+      "#A8B820"
+    ]
+  },
+  "954-base": {
+    "types": [
+      "bug",
+      "psychic"
+    ],
+    "colors": [
+      "#A8B820",
+      "#F85888"
+    ]
+  },
+  "955-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "956-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "957-base": {
+    "types": [
+      "fairy",
+      "steel"
+    ],
+    "colors": [
+      "#EE99AC",
+      "#B8B8D0"
+    ]
+  },
+  "958-base": {
+    "types": [
+      "fairy",
+      "steel"
+    ],
+    "colors": [
+      "#EE99AC",
+      "#B8B8D0"
+    ]
+  },
+  "959-base": {
+    "types": [
+      "fairy",
+      "steel"
+    ],
+    "colors": [
+      "#EE99AC",
+      "#B8B8D0"
+    ]
+  },
+  "960-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "961-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "962-base": {
+    "types": [
+      "flying",
+      "dark"
+    ],
+    "colors": [
+      "#A890F0",
+      "#705848"
+    ]
+  },
+  "963-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "965-base": {
+    "types": [
+      "steel",
+      "poison"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#A040A0"
+    ]
+  },
+  "966-base": {
+    "types": [
+      "steel",
+      "poison"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#A040A0"
+    ]
+  },
+  "967-base": {
+    "types": [
+      "dragon",
+      "normal"
+    ],
+    "colors": [
+      "#7038F8",
+      "#A8A878"
+    ]
+  },
+  "968-base": {
+    "types": [
+      "steel"
+    ],
+    "colors": [
+      "#B8B8D0"
+    ]
+  },
+  "969-base": {
+    "types": [
+      "rock",
+      "poison"
+    ],
+    "colors": [
+      "#B8A038",
+      "#A040A0"
+    ]
+  },
+  "970-base": {
+    "types": [
+      "rock",
+      "poison"
+    ],
+    "colors": [
+      "#B8A038",
+      "#A040A0"
+    ]
+  },
+  "971-base": {
+    "types": [
+      "ghost"
+    ],
+    "colors": [
+      "#705898"
+    ]
+  },
+  "972-base": {
+    "types": [
+      "ghost"
+    ],
+    "colors": [
+      "#705898"
+    ]
+  },
+  "973-base": {
+    "types": [
+      "flying",
+      "fighting"
+    ],
+    "colors": [
+      "#A890F0",
+      "#C03028"
+    ]
+  },
+  "974-base": {
+    "types": [
+      "ice"
+    ],
+    "colors": [
+      "#98D8D8"
+    ]
+  },
+  "975-base": {
+    "types": [
+      "ice"
+    ],
+    "colors": [
+      "#98D8D8"
+    ]
+  },
+  "976-base": {
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "colors": [
+      "#6890F0",
+      "#F85888"
+    ]
+  },
+  "977-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "979-base": {
+    "types": [
+      "fighting",
+      "ghost"
+    ],
+    "colors": [
+      "#C03028",
+      "#705898"
+    ]
+  },
+  "980-base": {
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "colors": [
+      "#A040A0",
+      "#E0C068"
+    ]
+  },
+  "981-base": {
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "colors": [
+      "#A8A878",
+      "#F85888"
+    ]
+  },
+  "983-base": {
+    "types": [
+      "dark",
+      "steel"
+    ],
+    "colors": [
+      "#705848",
+      "#B8B8D0"
+    ]
+  },
+  "984-base": {
+    "types": [
+      "ground",
+      "fighting"
+    ],
+    "colors": [
+      "#E0C068",
+      "#C03028"
+    ]
+  },
+  "985-base": {
+    "types": [
+      "fairy",
+      "psychic"
+    ],
+    "colors": [
+      "#EE99AC",
+      "#F85888"
+    ]
+  },
+  "986-base": {
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "colors": [
+      "#78C850",
+      "#705848"
+    ]
+  },
+  "987-base": {
+    "types": [
+      "ghost",
+      "fairy"
+    ],
+    "colors": [
+      "#705898",
+      "#EE99AC"
+    ]
+  },
+  "988-base": {
+    "types": [
+      "bug",
+      "fighting"
+    ],
+    "colors": [
+      "#A8B820",
+      "#C03028"
+    ]
+  },
+  "989-base": {
+    "types": [
+      "electric",
+      "ground"
+    ],
+    "colors": [
+      "#F8D030",
+      "#E0C068"
+    ]
+  },
+  "990-base": {
+    "types": [
+      "ground",
+      "steel"
+    ],
+    "colors": [
+      "#E0C068",
+      "#B8B8D0"
+    ]
+  },
+  "991-base": {
+    "types": [
+      "ice",
+      "water"
+    ],
+    "colors": [
+      "#98D8D8",
+      "#6890F0"
+    ]
+  },
+  "992-base": {
+    "types": [
+      "fighting",
+      "electric"
+    ],
+    "colors": [
+      "#C03028",
+      "#F8D030"
+    ]
+  },
+  "993-base": {
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "colors": [
+      "#705848",
+      "#A890F0"
+    ]
+  },
+  "994-base": {
+    "types": [
+      "fire",
+      "poison"
+    ],
+    "colors": [
+      "#F08030",
+      "#A040A0"
+    ]
+  },
+  "995-base": {
+    "types": [
+      "rock",
+      "electric"
+    ],
+    "colors": [
+      "#B8A038",
+      "#F8D030"
+    ]
+  },
+  "996-base": {
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "colors": [
+      "#7038F8",
+      "#98D8D8"
+    ]
+  },
+  "997-base": {
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "colors": [
+      "#7038F8",
+      "#98D8D8"
+    ]
+  },
+  "998-base": {
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "colors": [
+      "#7038F8",
+      "#98D8D8"
+    ]
+  },
+  "999-base": {
+    "types": [
+      "ghost"
+    ],
+    "colors": [
+      "#705898"
+    ]
+  },
+  "1000-base": {
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#705898"
+    ]
+  },
+  "1001-base": {
+    "types": [
+      "dark",
+      "grass"
+    ],
+    "colors": [
+      "#705848",
+      "#78C850"
+    ]
+  },
+  "1002-base": {
+    "types": [
+      "dark",
+      "ice"
+    ],
+    "colors": [
+      "#705848",
+      "#98D8D8"
+    ]
+  },
+  "1003-base": {
+    "types": [
+      "dark",
+      "ground"
+    ],
+    "colors": [
+      "#705848",
+      "#E0C068"
+    ]
+  },
+  "1004-base": {
+    "types": [
+      "dark",
+      "fire"
+    ],
+    "colors": [
+      "#705848",
+      "#F08030"
+    ]
+  },
+  "1005-base": {
+    "types": [
+      "dragon",
+      "dark"
+    ],
+    "colors": [
+      "#7038F8",
+      "#705848"
+    ]
+  },
+  "1006-base": {
+    "types": [
+      "fairy",
+      "fighting"
+    ],
+    "colors": [
+      "#EE99AC",
+      "#C03028"
+    ]
+  },
+  "1007-base": {
+    "types": [
+      "fighting",
+      "dragon"
+    ],
+    "colors": [
+      "#C03028",
+      "#7038F8"
+    ]
+  },
+  "1008-base": {
+    "types": [
+      "electric",
+      "dragon"
+    ],
+    "colors": [
+      "#F8D030",
+      "#7038F8"
+    ]
+  },
+  "1009-base": {
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "colors": [
+      "#6890F0",
+      "#7038F8"
+    ]
+  },
+  "1010-base": {
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "colors": [
+      "#78C850",
+      "#F85888"
+    ]
+  },
+  "1011-base": {
+    "types": [
+      "grass",
+      "dragon"
+    ],
+    "colors": [
+      "#78C850",
+      "#7038F8"
+    ]
+  },
+  "1012-base": {
+    "types": [
+      "grass",
+      "ghost"
+    ],
+    "colors": [
+      "#78C850",
+      "#705898"
+    ]
+  },
+  "1013-base": {
+    "types": [
+      "grass",
+      "ghost"
+    ],
+    "colors": [
+      "#78C850",
+      "#705898"
+    ]
+  },
+  "1014-base": {
+    "types": [
+      "poison",
+      "fighting"
+    ],
+    "colors": [
+      "#A040A0",
+      "#C03028"
+    ]
+  },
+  "1015-base": {
+    "types": [
+      "poison",
+      "psychic"
+    ],
+    "colors": [
+      "#A040A0",
+      "#F85888"
+    ]
+  },
+  "1016-base": {
+    "types": [
+      "poison",
+      "fairy"
+    ],
+    "colors": [
+      "#A040A0",
+      "#EE99AC"
+    ]
+  },
+  "1017-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "1018-base": {
+    "types": [
+      "steel",
+      "dragon"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#7038F8"
+    ]
+  },
+  "1019-base": {
+    "types": [
+      "grass",
+      "dragon"
+    ],
+    "colors": [
+      "#78C850",
+      "#7038F8"
+    ]
+  },
+  "1020-base": {
+    "types": [
+      "fire",
+      "dragon"
+    ],
+    "colors": [
+      "#F08030",
+      "#7038F8"
+    ]
+  },
+  "1021-base": {
+    "types": [
+      "electric",
+      "dragon"
+    ],
+    "colors": [
+      "#F8D030",
+      "#7038F8"
+    ]
+  },
+  "1022-base": {
+    "types": [
+      "rock",
+      "psychic"
+    ],
+    "colors": [
+      "#B8A038",
+      "#F85888"
+    ]
+  },
+  "1023-base": {
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#F85888"
+    ]
+  },
+  "1024-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "1024-terastal": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "1025-base": {
+    "types": [
+      "poison",
+      "ghost"
+    ],
+    "colors": [
+      "#A040A0",
+      "#705898"
+    ]
+  },
+  "978-curly": {
+    "types": [
+      "dragon",
+      "water"
+    ],
+    "colors": [
+      "#7038F8",
+      "#6890F0"
+    ]
+  },
+  "982-two-segment": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "386-base": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "413-base": {
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "colors": [
+      "#A8B820",
+      "#78C850"
+    ]
+  },
+  "487-base": {
+    "types": [
+      "ghost",
+      "dragon"
+    ],
+    "colors": [
+      "#705898",
+      "#7038F8"
+    ]
+  },
+  "492-base": {
+    "types": [
+      "grass"
+    ],
+    "colors": [
+      "#78C850"
+    ]
+  },
+  "550-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "550-blue": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "550-white": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "555-base": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "555-galarian": {
+    "types": [
+      "fire"
+    ],
+    "colors": [
+      "#F08030"
+    ]
+  },
+  "641-base": {
+    "types": [
+      "flying"
+    ],
+    "colors": [
+      "#A890F0"
+    ]
+  },
+  "642-base": {
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "colors": [
+      "#F8D030",
+      "#A890F0"
+    ]
+  },
+  "645-base": {
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "colors": [
+      "#E0C068",
+      "#A890F0"
+    ]
+  },
+  "647-base": {
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "colors": [
+      "#6890F0",
+      "#C03028"
+    ]
+  },
+  "648-base": {
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "colors": [
+      "#A8A878",
+      "#F85888"
+    ]
+  },
+  "678-male": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "678-female": {
+    "types": [
+      "psychic"
+    ],
+    "colors": [
+      "#F85888"
+    ]
+  },
+  "681-base": {
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "colors": [
+      "#B8B8D0",
+      "#705898"
+    ]
+  },
+  "710-base": {
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "colors": [
+      "#705898",
+      "#78C850"
+    ]
+  },
+  "711-base": {
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "colors": [
+      "#705898",
+      "#78C850"
+    ]
+  },
+  "718-base": {
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "colors": [
+      "#7038F8",
+      "#E0C068"
+    ]
+  },
+  "718-10": {
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "colors": [
+      "#7038F8",
+      "#E0C068"
+    ]
+  },
+  "718-complete": {
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "colors": [
+      "#7038F8",
+      "#E0C068"
+    ]
+  },
+  "741-baile": {
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "colors": [
+      "#F08030",
+      "#A890F0"
+    ]
+  },
+  "741-pau": {
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "colors": [
+      "#F08030",
+      "#A890F0"
+    ]
+  },
+  "741-pompom": {
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "colors": [
+      "#F08030",
+      "#A890F0"
+    ]
+  },
+  "741-sensu": {
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "colors": [
+      "#F08030",
+      "#A890F0"
+    ]
+  },
+  "745-base": {
+    "types": [
+      "rock"
+    ],
+    "colors": [
+      "#B8A038"
+    ]
+  },
+  "745-dusk": {
+    "types": [
+      "rock"
+    ],
+    "colors": [
+      "#B8A038"
+    ]
+  },
+  "745-midnight": {
+    "types": [
+      "rock"
+    ],
+    "colors": [
+      "#B8A038"
+    ]
+  },
+  "746-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  },
+  "774-base": {
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "colors": [
+      "#B8A038",
+      "#A890F0"
+    ]
+  },
+  "774-core": {
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "colors": [
+      "#B8A038",
+      "#A890F0"
+    ]
+  },
+  "778-base": {
+    "types": [
+      "ghost",
+      "fairy"
+    ],
+    "colors": [
+      "#705898",
+      "#EE99AC"
+    ]
+  },
+  "849-base": {
+    "types": [
+      "electric",
+      "poison"
+    ],
+    "colors": [
+      "#F8D030",
+      "#A040A0"
+    ]
+  },
+  "875-base": {
+    "types": [
+      "ice"
+    ],
+    "colors": [
+      "#98D8D8"
+    ]
+  },
+  "876-male": {
+    "types": [
+      "psychic",
+      "normal"
+    ],
+    "colors": [
+      "#F85888",
+      "#A8A878"
+    ]
+  },
+  "876-female": {
+    "types": [
+      "psychic",
+      "normal"
+    ],
+    "colors": [
+      "#F85888",
+      "#A8A878"
+    ]
+  },
+  "877-base": {
+    "types": [
+      "electric",
+      "dark"
+    ],
+    "colors": [
+      "#F8D030",
+      "#705848"
+    ]
+  },
+  "902-male": {
+    "types": [
+      "water",
+      "ghost"
+    ],
+    "colors": [
+      "#6890F0",
+      "#705898"
+    ]
+  },
+  "902-female": {
+    "types": [
+      "water",
+      "ghost"
+    ],
+    "colors": [
+      "#6890F0",
+      "#705898"
+    ]
+  },
+  "905-base": {
+    "types": [
+      "fairy",
+      "flying"
+    ],
+    "colors": [
+      "#EE99AC",
+      "#A890F0"
+    ]
+  },
+  "916-male": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "916-female": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "925-base": {
+    "types": [
+      "normal"
+    ],
+    "colors": [
+      "#A8A878"
+    ]
+  },
+  "931-green": {
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "colors": [
+      "#A8A878",
+      "#A890F0"
+    ]
+  },
+  "964-base": {
+    "types": [
+      "water"
+    ],
+    "colors": [
+      "#6890F0"
+    ]
+  }
+}

@@ -9,7 +9,7 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "Pokemon Logo Gallery",
+  title: "Pokemon 30th Anniversary Logo Gallery",
   description: "A collection of Pokemon logos from Twitter",
 };
 
