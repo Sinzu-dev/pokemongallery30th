@@ -8,6 +8,8 @@ import manifest from '@/lib/logos-manifest.json';
 import pokemonTypes from '@/lib/pokemon-types.json';
 import type { LogoEntry } from '@/lib/types';
 
+const BASE_PATH = process.env.NODE_ENV === 'production' ? '/pokemongallery30th' : '';
+
 type PickMode = 1 | 6 | 9 | 100;
 
 const MODES: { value: PickMode; label: string; description: string }[] = [
@@ -178,7 +180,7 @@ export default function RandomPage() {
                 const triangleSize = 48;
                 return (
                   <div key={`save-${logo.pokedex}-${logo.variant}`} className="relative bg-gray-100 aspect-square flex items-center justify-center p-4">
-                    <img src={logo.path} alt="" className="max-w-full max-h-full object-contain" />
+                    <img src={`${BASE_PATH}${logo.path}`} alt="" className="max-w-full max-h-full object-contain" />
                     {showTriangleOnSave && colors.length === 1 && (
                       <div
                         className="absolute bottom-0 left-0"

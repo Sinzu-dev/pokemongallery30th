@@ -1,9 +1,5 @@
 'use client';
 
-import { useRouter, useSearchParams } from 'next/navigation';
-import { useState, useEffect } from 'react';
-
-// All 18 Pokemon types with official colors
 const POKEMON_TYPES: { name: string; color: string }[] = [
   { name: 'normal', color: '#A8A878' },
   { name: 'fire', color: '#F08030' },
@@ -25,72 +21,46 @@ const POKEMON_TYPES: { name: string; color: string }[] = [
   { name: 'fairy', color: '#EE99AC' },
 ];
 
-export default function GalleryFilter() {
-  const router = useRouter();
-  const searchParams = useSearchParams();
-  const [search, setSearch] = useState(searchParams.get('search') || '');
-  const [selectedTypes, setSelectedTypes] = useState<string[]>(() => {
-    const typesParam = searchParams.get('types');
-    return typesParam ? typesParam.split(',') : [];
-  });
+interface GalleryFilterProps {
+  search: string;
+  onSearchChange: (value: string) => void;
+  selectedTypes: string[];
+  onTypesChange: (types: string[]) => void;
+}
 
-  // Sync selectedTypes with URL on mount
-  useEffect(() => {
-    const typesParam = searchParams.get('types');
-    setSelectedTypes(typesParam ? typesParam.split(',') : []);
-  }, [searchParams]);
-
-  const updateUrl = (newSearch: string, newTypes: string[]) => {
-    const params = new URLSearchParams();
-    if (newSearch) params.set('search', newSearch);
-    if (newTypes.length > 0) params.set('types', newTypes.join(','));
-    const queryString = params.toString();
-    router.push(queryString ? `/gallery?${queryString}` : '/gallery');
-  };
-
-  const handleSearch = () => {
-    updateUrl(search, selectedTypes);
-  };
-
+export default function GalleryFilter({ search, onSearchChange, selectedTypes, onTypesChange }: GalleryFilterProps) {
   const toggleType = (type: string) => {
-    const newTypes = selectedTypes.includes(type)
-      ? selectedTypes.filter(t => t !== type)
-      : [...selectedTypes, type];
-    setSelectedTypes(newTypes);
-    updateUrl(search, newTypes);
+    if (selectedTypes.includes(type)) {
+      onTypesChange(selectedTypes.filter(t => t !== type));
+    } else {
+      onTypesChange([...selectedTypes, type]);
+    }
   };
 
   const clearAll = () => {
-    setSearch('');
-    setSelectedTypes([]);
-    router.push('/gallery');
+    onSearchChange('');
+    onTypesChange([]);
   };
 
   const hasFilters = search || selectedTypes.length > 0;
 
   return (
     <div className="mb-4 space-y-3">
-      {/* Search row */}
       <div className="flex gap-2">
         <input
           type="text"
           value={search}
-          onChange={(e) => setSearch(e.target.value)}
-          onKeyDown={(e) => e.key === 'Enter' && handleSearch()}
+          onChange={(e) => onSearchChange(e.target.value)}
           placeholder="Search by name or number..."
           className="flex-1 px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-500 focus:outline-none"
         />
-        <button onClick={handleSearch} className="px-4 py-2 bg-[#4A90D9] text-white rounded-lg hover:bg-blue-600">
-          Search
-        </button>
         {hasFilters && (
-          <button onClick={clearAll} className="px-4 py-2 text-gray-600">
+          <button onClick={clearAll} className="px-4 py-2 text-gray-600 hover:text-gray-800">
             Clear
           </button>
         )}
       </div>
 
-      {/* Type filter row */}
       <div className="flex flex-wrap gap-1.5">
         {POKEMON_TYPES.map(({ name, color }) => {
           const isActive = selectedTypes.includes(name);

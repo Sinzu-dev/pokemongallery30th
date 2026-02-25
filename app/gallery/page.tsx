@@ -1,4 +1,6 @@
-import { Suspense } from 'react';
+'use client';
+
+import { useState, useMemo } from 'react';
 import LogoCard from '@/components/logo-card';
 import GalleryFilter from '@/components/gallery-filter';
 import AnimatedBackground from '@/components/animated-background';
@@ -6,42 +8,37 @@ import manifest from '@/lib/logos-manifest.json';
 import pokemonTypes from '@/lib/pokemon-types.json';
 import type { LogoEntry } from '@/lib/types';
 
-interface PageProps {
-  searchParams: Promise<{ search?: string; types?: string }>;
-}
+export default function GalleryPage() {
+  const [search, setSearch] = useState('');
+  const [selectedTypes, setSelectedTypes] = useState<string[]>([]);
 
-export default async function GalleryPage({ searchParams }: PageProps) {
-  const params = await searchParams;
-  const search = params.search?.toLowerCase() || '';
-  const selectedTypes = params.types ? params.types.split(',') : [];
+  const logos = useMemo(() => {
+    let filtered: LogoEntry[] = manifest.logos as LogoEntry[];
 
-  let logos: LogoEntry[] = manifest.logos;
+    // Filter by search text
+    if (search) {
+      const s = search.toLowerCase();
+      filtered = filtered.filter((logo) => {
+        const name = logo.name.toLowerCase();
+        const numStr = logo.pokedex.toString();
+        const paddedNum = logo.pokedex.toString().padStart(4, '0');
+        const variant = logo.variant.toLowerCase();
+        return name.includes(s) || numStr.includes(s) || paddedNum.includes(s) || variant.includes(s);
+      });
+    }
 
-  // Filter by search text
-  if (search) {
-    logos = logos.filter((logo) => {
-      const name = logo.name.toLowerCase();
-      const numStr = logo.pokedex.toString();
-      const paddedNum = logo.pokedex.toString().padStart(4, '0');
-      const variant = logo.variant.toLowerCase();
-      return (
-        name.includes(search) ||
-        numStr.includes(search) ||
-        paddedNum.includes(search) ||
-        variant.includes(search)
-      );
-    });
-  }
+    // Filter by types
+    if (selectedTypes.length > 0) {
+      filtered = filtered.filter((logo) => {
+        const typeKey = `${logo.pokedex}-${logo.variant}`;
+        const typeData = (pokemonTypes as Record<string, { types: string[] }>)[typeKey];
+        if (!typeData?.types) return false;
+        return selectedTypes.some(t => typeData.types.includes(t));
+      });
+    }
 
-  // Filter by types (show Pokemon that have ANY of the selected types)
-  if (selectedTypes.length > 0) {
-    logos = logos.filter((logo) => {
-      const typeKey = `${logo.pokedex}-${logo.variant}`;
-      const typeData = (pokemonTypes as Record<string, { types: string[] }>)[typeKey];
-      if (!typeData?.types) return false;
-      return selectedTypes.some(t => typeData.types.includes(t));
-    });
-  }
+    return filtered;
+  }, [search, selectedTypes]);
 
   return (
     <div className="relative">
@@ -53,9 +50,12 @@ export default async function GalleryPage({ searchParams }: PageProps) {
           {manifest.totalLogos} logos collected
         </p>
 
-        <Suspense fallback={<div className="h-12" />}>
-          <GalleryFilter />
-        </Suspense>
+        <GalleryFilter
+          search={search}
+          onSearchChange={setSearch}
+          selectedTypes={selectedTypes}
+          onTypesChange={setSelectedTypes}
+        />
 
         {logos.length === 0 ? (
           <p className="text-center text-gray-500 py-8">No Pokemon found.</p>

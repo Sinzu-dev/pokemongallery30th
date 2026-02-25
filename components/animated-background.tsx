@@ -4,6 +4,8 @@ import { useState, useEffect } from 'react';
 import manifest from '@/lib/logos-manifest.json';
 import type { LogoEntry } from '@/lib/types';
 
+const BASE_PATH = process.env.NODE_ENV === 'production' ? '/pokemongallery30th' : '';
+
 function shuffleArray<T>(array: T[]): T[] {
   const shuffled = [...array];
   for (let i = shuffled.length - 1; i > 0; i--) {
@@ -22,7 +24,7 @@ function BackgroundRow({ logos, direction, speed }: { logos: LogoEntry[]; direct
         {[...logos, ...logos].map((logo, i) => (
           <img
             key={`${logo.pokedex}-${logo.variant}-${i}`}
-            src={logo.path}
+            src={`${BASE_PATH}${logo.path}`}
             alt=""
             className="object-contain flex-shrink-0"
             style={{ width: '64px', height: '64px' }}

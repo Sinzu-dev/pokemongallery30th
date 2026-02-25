@@ -2,6 +2,8 @@
 
 import type { LogoEntry } from '@/lib/types';
 
+const BASE_PATH = process.env.NODE_ENV === 'production' ? '/pokemongallery30th' : '';
+
 interface LogoCardProps {
   logo: LogoEntry;
   showTriangle?: boolean;
@@ -27,14 +29,14 @@ function getBadgeColor(variant: string): string {
 export default function LogoCard({ logo, showTriangle = false, typeColors = ['#888888'], types = [] }: LogoCardProps) {
   return (
     <a
-      href={logo.path}
+      href={`${BASE_PATH}${logo.path}`}
       target="_blank"
       rel="noopener noreferrer"
       className="block relative bg-white rounded-xl shadow-md overflow-hidden hover:shadow-lg transition-shadow cursor-pointer"
     >
       <div className="aspect-square bg-gray-100 flex items-center justify-center p-2 relative">
         <img
-          src={logo.path}
+          src={`${BASE_PATH}${logo.path}`}
           alt={`${logo.name} ${logo.variant !== 'base' ? `(${logo.variant})` : ''}`}
           className="max-w-full max-h-full object-contain"
           loading="lazy"
