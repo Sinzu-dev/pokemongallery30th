@@ -56,14 +56,20 @@ export default function RandomPage() {
     if (!gridRef.current) return;
 
     setIsSaving(true);
-    // Wait for grid to become visible and images to be ready
-    await new Promise(resolve => setTimeout(resolve, 200));
+    await new Promise(resolve => setTimeout(resolve, 100));
 
     try {
+      // Reveal grid for capture (direct DOM, no React re-render)
+      gridRef.current.style.clipPath = 'none';
+      await new Promise(resolve => setTimeout(resolve, 50));
+
       const dataUrl = await domToPng(gridRef.current, {
         scale: 2,
         backgroundColor: '#ffffff',
       });
+
+      // Hide grid immediately after capture
+      gridRef.current.style.clipPath = 'inset(100%)';
 
       const link = document.createElement('a');
       link.download = `pokemon-team-${Date.now()}.png`;
@@ -71,6 +77,7 @@ export default function RandomPage() {
       link.click();
     } catch (error) {
       console.error('Save failed:', error);
+      if (gridRef.current) gridRef.current.style.clipPath = 'inset(100%)';
     }
 
     setIsSaving(false);
@@ -171,7 +178,7 @@ export default function RandomPage() {
               ))}
             </div>
 
-            {/* Grid for image-only export (hidden behind content, visible only during capture) */}
+            {/* Grid for image-only export (always hidden, revealed via JS for capture) */}
             <div
               ref={gridRef}
               className={`grid gap-4 ${mode === 6 ? 'grid-cols-3' : 'grid-cols-3'} bg-white p-4`}
@@ -180,7 +187,7 @@ export default function RandomPage() {
                 top: 0,
                 left: 0,
                 width: '1200px',
-                clipPath: isSaving ? 'none' : 'inset(100%)',
+                clipPath: 'inset(100%)',
                 pointerEvents: 'none',
                 zIndex: -9999
               }}
